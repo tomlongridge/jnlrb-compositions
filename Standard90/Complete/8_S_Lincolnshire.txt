@@ -1,0 +1,246 @@
+[Lincolnshire Surprise,8]
+
+192
+	2345678	
+s	5378264	1
+s	8364527	1
+s	4327856	1
+s	7356482	1
+s	6382745	1
+s	2345678	1
+
+192
+	2345678	
+s	5378264	1
+s	8364527	1
+s	7256483	2
+s	6283745	1
+-	2345678	1
+
+224
+	2345678	
+-	3578264	1
+-	5864327	1
+-	8427536	1
+-	4736852	1
+-	7652483	1
+-	6283745	1
+-	2345678	1
+
+#224 - TODO: Unsupported half lead bob
+#2.5	M	W	4.5	H	23456
+#-	-	-	-	-	23456
+#hl- = 58.
+
+320
+B	3	I	W	H	23456
+-	ss	-	-	-	23456
+
+#352 - TODO: Unsupported half lead bob
+#B	2.5	H	23456
+#-	-	-	23456
+
+#352 - TODO: Unsupported half lead bob
+#4.5	B	H	23456
+#-			23645
+#	-	-	23456
+
+354
+5	B	I	M	W	4	H	23456
+-	-	-	-	-	-	s	32456
+# Rounds in 130 changes.
+
+354
+W	23456
+-	52436
+s	(32456)
+
+384
+	2345678	
+-	3578264	1
+-	5864327	1
+-	8427536	1
+-	8473265	4
+-	4365827	1
+-	3527486	1
+	2345678	3
+
+384
+B	H	23456
+-	-	23564
+3 Part.
+
+448
+W	H	23456
+-	-	45236
+-	-	23456
+
+1280
+B	W	H	23456
+		-	42356
+2		-	25634
+	-		32654
+-			25346
+	-	2	23456
+# Also true to Cambridge, Yorkshire, Superlative and Pudsey.
+
+#!
+
+[Cambridge Surprise,8]
+
+1280
+B	W	H	23456
+		-	42356
+2		-	25634
+	-		32654
+-			25346
+	-	2	23456
+
+[Yorkshire Surprise,8]
+
+1280
+B	W	H	23456
+		-	42356
+2		-	25634
+	-		32654
+-			25346
+	-	2	23456
+
+[Superlative Surprise,8]
+
+1280
+B	W	H	23456
+		-	42356
+2		-	25634
+	-		32654
+-			25346
+	-	2	23456
+
+[Pudsey Surprise,8]
+
+1280
+B	W	H	23456
+		-	42356
+2		-	25634
+	-		32654
+-			25346
+	-	2	23456
+
+[Lincolnshire Surprise,8]
+
+#!
+
+1250
+M	W	H	23456
+	s		53426
+s	s	-	42365
+-		2	25364
+	-		62354
+-			(32456)
+# Also true to Yorkshire.
+
+#!
+
+[Yorkshire Surprise,8]
+
+1250
+M	W	H	23456
+	s		53426
+s	s	-	42365
+-		2	25364
+	-		62354
+-			(32456)
+
+[Lincolnshire Surprise,8]
+
+#!
+
+1278
+5	B	W	3	H	324567
+				-	43256
+			s	-	357246
+		s		s	275346
+s		-		ss	32564
+	-			-	32645
+	-			s	23456
+#Start at treble backstroke snap after W.
+#Also true to Yorkshire.
+
+#!
+
+[Yorkshire Surprise,8]
+
+1278
+5	B	W	3	H	324567
+				-	43256
+			s	-	357246
+		s		s	275346
+s		-		ss	32564
+	-			-	32645
+	-			s	23456
+
+[Lincolnshire Surprise,8]
+
+#!
+
+5088
+#by C.J.Sedgley
+B	M	W	23456
+		2	35426
+	-	-	24653
+-			45236
+	-	2	53624
+	2	-	24536
+3 Part.
+
+5058
+#by C.K.Lewis and J.H.Fielden
+B	M	W	H	23456
+		-	2	24536
+ss	3	-		32546
+	3	-		43526
+ss	3	-	-	52436
+ss	-	-		34625
+	3	-		23645
+	3	-		42635
+	2	s		(32456)
+
+5152
+#by S.Humphrey
+M	W	H	23456
+-		ss*	43652
+2		s	24356
+	2	s	43526
+-		s	56324
+	-	s	23564
+3 Part.
+#!
+Omit ss* in part 1.
+#!
+# Omit ss* in one part.
+
+#!
+
+5152
+M	W	H	23456
+-		ss*	43652
+2		s	24356
+	2	s	43526
+-		s	56324
+	-	s	23564
+3 Part.
+Omit ss* in part 2.
+
+5152
+M	W	H	23456
+-		ss*	43652
+2		s	24356
+	2	s	43526
+-		s	56324
+	-	s	23564
+3 Part.
+Omit ss* in part 3.
+
+#!
+
+# For compositions of Spliced Surprise Major see pages 44-47.

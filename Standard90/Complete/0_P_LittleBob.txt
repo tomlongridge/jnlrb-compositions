@@ -1,0 +1,406 @@
+[Little Bob,10]
+
+32
+1	2	3	4	23456
+-	-	-	-	23456	[4]
+
+64
+1	2	3	4	23456
+-	-	-	s	32456	[4]
+-	-	-	s	23456	[4]
+
+96
+1	2	3	23456
+-	-	-	34256	[4]
+-	-	-	42356	[4]
+-	-	-	23456	[4]
+
+144
+W	H	23456
+-	-	45236
+-	-	23456
+
+144
+W	H	23456
+s	s	54326
+s	s	23456
+
+168
+1	2	3	4	9	23456
+				s	24356
+-	-	-			43256	[4]
+-	-	-			32456	[4]
+-	-	-	s		23456	[4]
+
+216
+2	9	234567890
+-	-	423567089
+-	-	342567908
+-	-	234567890
+
+360
+W	H	23456
+3	3	23456
+
+#504, 432, 360, 288
+#!
+504
+#!
+W	M	H	23456
+s	s		63425
+s		ss	23465
+s	s		53426
+s		3	23456
+# For 432 omit ss.
+# For 360 omit 3.
+# For 288 omit ss and 3.
+
+#!
+
+432
+W	M	H	23456
+s	s		63425
+s			23465
+s	s		53426
+s		3	23456
+
+360
+W	M	H	23456
+s	s		63425
+s		ss	23465
+s	s		53426
+s			23456
+
+288
+W	M	H	23456
+s	s		63425
+s			23465
+s	s		53426
+s			23456
+
+#!
+
+1296
+W	H	23456
+-	3*	52436
+6 Part.
+3* = --s in parts 3 and 6.
+
+1296
+W	M	H	23456
+s	s	ss	63425
+s		-	42365
+6 Part.
+
+1256
+6	O	7	W	H	23456
+			s		53426
+#!
+-	-	-			34526
+#!
+#a					34526
+			2	2	25436
+			-	3	32456
+			s	2	24536
+			-	ss	32546
+			2	-	52436
+			2	3	23456
+#a = 6ths, Out, 7ths.
+
+1296
+2	4	5	9	234567890
+-	s	-	-	643257089
+	s	-	2	453627089
+		-	3	352647089
+		-	2	542637089
+		-	3	243657089
+-	s	s	-	354267908
+-	-		6*	234567890
+6* = --s--s.
+
+#5024 - TODO: False
+#by J.N.Longridge
+#1	2	3	4	5	9
+#	-		-	-	3
+#				-	-
+#			-	-	2
+#				-	3
+#				-	2
+#				-	3
+#			-	-	3
+#	-				s
+#-	-	-				[4]
+#-	-	-				[4]
+#	-		-	-	3
+#				-	3
+#				-	2
+#			-		3
+#			-		2
+#			-		3
+#2 Part.
+
+5000
+#by G.W.Debenham
+1	2	3	4	5	9	234567890
+			-	-	-	642357890
+			-		3	362457890
+			-		2	324657890
+				-	(3)	425637890	:A
+				-	-	352647890	:A
+			-		3	632547890	:A
+			2		2	523647890	:A
+				-	-	432657890	:A
+			-	-		245367890	:A
+			-		3	325467890	:A
+			2*		3	235467890	:A
+			-		s	452367890
+	-		-			342567089
+-	-	-				423567089	[4]
+-	-	-				234567089	[4]
+			-			524367089
+-	-	-	s			254367089	[4]
+			-		3	324567089
+a						463258790
+			-		6*	243658790
+	-		-	-	6*	325468079
+b						652347890
+			-		3	362547890
+			-		2	325647890
+#A*						234567890
+#!
+				-		524637890
+				-	-	342657890
+			-		3	632457890
+			2		2	423657890
+				-	-	532647890
+			-	-		254367890
+			-		3	324567890
+			2*		3	234567890
+#!
+a = 3,7,s11,s14.
+b = 3,4,7,s11,s13,14.
+2* = -s
+6* = --s--s.
+#A* = A omitting (3).
+
+# Spliced Plain Bob and Little Bob Royal
+
+# Many lengths of Plain and Little Spliced may be obtained by attaching the following courses to the selection of touches given underneath:
+
+[P=Plain Bob,10]
+[L=Little Bob,10]
+
+# LPP (48 changes) includes M and H.
+#!
+48
+H		23456
+	LPP	23456
+#!
+
+# PLP (48 changes) includes W, M and H.
+#!
+48
+H		23456
+	PLP	23456
+#!
+
+# PPL (48 changes) includes W and H.
+#!
+48
+H		23456
+	PPL	23456
+#!
+
+# LLLLLP (60 changes) includes W, M and H.
+#!
+60
+H			23456
+	LLLLLP	23456
+#!
+
+# PLLLLL (60 changes) includes W, M and H.
+#!
+60
+H			23456
+	PLLLLL	23456
+#!
+
+# LLLPLLP* (60 changes) includes 6, O, 7, W and H (* where 6, O, 7 is called).
+#!
+60
+H			23456
+	LLLPLLP	23456
+#!
+
+# LLPLLPLLP (108 changes) includes W, M and H.
+#!
+108
+H				23456
+	LLPLLPLLP	23456
+#!
+
+# LPLLPLLPL (108 changes) includes W, M and H.
+#!
+108
+H				23456
+	LPLLPLLPL	23456
+#!
+
+# PLLPLLPLL (108 changes) includes W, M and H.
+#!
+108
+H				23456
+	PLLPLLPLL	23456
+#!
+
+#!
+144
+#!
+W	H	23456
+-	-	45236
+-	-	23456
+
+#W	M	H	23456
+#A	A	A	23456
+#A = --- or ss
+# Omit none, one or two A.
+
+#!
+504
+W	M	H	23456
+3*	3*	3*	23456
+3* = ---
+#!
+
+#!
+288
+#!
+#A	23456
+#!
+H	23456
+#!
+4*	23456
+4* = -s-s.
+# A = W, M or H.
+#!
+
+288
+W	23456
+4*	23456
+4* = -s-s.
+
+288
+M	23456
+4*	23456
+4* = -s-s.
+
+#!
+
+#!
+144
+#!
+M	H	23456
+-	-	64352
+-	-	23456
+
+#!
+432
+#!
+W	H	23456
+-	-	45236
+-		34256
+3 Part.
+
+#!
+576
+#!
+W	M	H	23456
+s	s		63425
+s		3	23465
+2 Part.
+
+#!
+360
+#!
+W	M	23456
+-	-	42635
+5 Part.
+
+#!
+360
+#!
+W	M	H	23456
+-	-	-	64235
+5 Part.
+
+#!
+576
+#!
+6	O	7	W	M	H	23456
+#!
+					s	LPP	24356
+#!
+#					s	24356
+#!
+-	-	-	ss	ss		LLLPLLPPLPLPP	43256
+#!
+#-	-	-	ss	ss		43256
+#!
+-	-	-	ss	ss		LLLPLLPPLPLPP	32456
+#!
+#-	-	-	ss	ss		32456
+#!
+-	-	-	ss	ss	s	LLLPLLPPLPLPP	23456
+#!
+#-	-	-	ss	ss	s	23456
+#Reduce by omitting any ss, 2sH, all 6O7, or any combination.
+
+#!
+496
+#!
+6	O	7	W	M	H	23456
+-	-	-			s	32456
+			-	s		63425
+			s		ss	23465
+2 Part.
+
+#!
+432
+#!
+M	W	H	23456
+-	-	-	65432
+-			45236
+2 Part.
+
+#!
+576
+#!
+M	W	H		23456
+	s		(53426)
+s	s	3	23465
+2 Part.
+
+# N.B. Where truth is critical, care must be taken over the selection of courses. See note at end of Spliced Plain and Little on page 31.
+
+1296
+W	M	H			23456
+-	-	-	PLP		64235
+s	-		LLLLLP	24563
+	-		PLP		54362
+	-		PLLLLL	34265
+6 Part.
+
+5256
+#by J.A.Trollope
+W	M	H	23456
+-		3	PLPPLPPLP	52436
+-		3	PLPPLPPLP	35426
+-		-	PLP			42356
+	-	3	PLPPLPPLP	32654
+	-	2	PLPPLP		24653
+-	-	-	LLLLLP		36245
+	-	-	LLLLLP		52643
+-		-	LLLLLP		64523
+-	2	-*	LLLLLPLLLLLP		23645
+6 Part.
+-* = s in parts 3 and 6.

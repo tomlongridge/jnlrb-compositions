@@ -1,0 +1,344 @@
+[Stedman,5]
+
+# 36
+s	1
+s	1
+s	1
+s	1
+s	1
+s	1
+#(Call single every six.)
+
+[Erin,7]
+
+# 5040
+# False, but with rounds repeated so suspect notation is wrong (as rounds would have been noticed)
+
+1	3	4	5	6
+	-	-			[7]
+s	-	-	-	-	[7]	:A	:C
+s	-	-			[7]	:A	:C
+3A							:C
+s	-	-	-	-	[7]	:B	:C
+	-	-	-	-	[7]	:B	:C
+s	-	-			[7]	:B	:C
+3C
+	-	-			[7]
+2A
+2B
+4C
+	-	-			[7]
+3A
+	-	-			[7]
+A
+B
+
+[Stedman,7]
+
+# 79
+-	4
+s	1
+-	1
+-	2
+-	2
+-	2
+-	1
+
+# 1284
+6	S	H	L	Q	5
+s						[16]	:A
+	x	x		x		[14]	:A
+		x				[14]	:A
+A						[14]
+	x		x			[14]	:B
+	x	x		x		[14]	:B
+		x				[14]	:B
+B						[14]
+	x		x		s	[12]
+		x		x		[14]
+		x				[14]
+A						[14]
+
+#c1 = { p p p p p p p p p p s p p p p p ce }
+#c2 = { p p b b b b p p p p p b b p ce }
+#c3 = { p p p p b b p p p p p p p p ce }
+#ptA = { c1 c2 c3 }
+#c4 = { p p b b p p b b p p p p p p ce }
+#ptB = { c4 c2 c3 }
+#c5 = { p p b b p p b b s p p p ce }
+#c6 = { p p p p b b p p p p p b b p ce }
+#composition = { ptA ptA ptB ptB c5 c6 c3 ptA }
+
+[Stedman,7]
+
+# 5040
+# Need to figure out what '2' and '14' mean
+
+2	S	H	L	Q	14
+	x	x				:A
+	x	x		x		:A
+		x				:A
+2A
+	x		x			:B
+	x	x		x		:B
+		x	x			:B
+4A
+B
+	x	x
+	x	x		x
+		x			s
+		x
+2A
+	x					:C
+	x	x		x		:C
+		x				:C
+4A
+C
+A
+	x		x
+	x	x		x
+s
+
+# Peal Prover doesn't cope with this
+#!!c1 = { p p b b p p p ce }
+#!!a1 = { s p b b b b p ce }
+#!!a2 = { s p b b p p p ce }
+#!!ptA = { a1 a2 }
+#!!b1 = { a1 }
+#!!b2 = { p p b b p p p ce }
+#!!b3 = { a2 }
+#!!ptB = { b1 b2 b3 }
+#!!ptC = { ptA ptA ptA ptA ptB }
+#!!composition = { c1 ptC ptC ptC ptC c1 ptA ptA ptB ptB ptC ptC ptC ptC c1 ptA #ptA ptA c1 ptA ptB }
+
+#c1 = { p p b b p p p ce }
+#ptA = { s p b b b b p ce s p b b p p p ce }
+#ptB = { s p b b b b p ce p p b b p p p ce s p b b p p p ce }
+#ptC = { s p b b b b p ce s p b b p p p ce s p b b b b p ce s p b b p p p ce s p b b b b p ce s p b b p p p ce s p b b b b p ce s p b b p p p ce s p b b b b p ce p p b b b b p ce s p b b p p p ce }
+#composition = { c1 ptC ptC ptC ptC c1 ptA ptA ptB ptB ptC ptC ptC ptC c1 ptA ptA ptA c1 ptA ptB }
+
+[Double Norwich Court Bob,8]
+
+#352 TODO: Doesn't end in rounds
+1	2	3	6
+			-
+-	s	s		[4]
+			-
+-	s	s		[4]
+
+#5072 - TODO: Not sure of notation at 4*
+#by J.H.Fielden
+1	2	3	4	6	7
+				2*		:A
+s				3		:A
+s			s	3		:A
+s			s	3		:A
+s				3		:A
+s			s	-
+-		s
+-				-
+-	s	s	s			[9]
+			-	3
+s		s
+	s			4*
+-			s		s
+-			s	-
+A
+s			s	3
+s			s	-
+2* = s-.
+4* = -s-s.
+
+#5184
+#by S.Humphrey
+1	2	4	5	6
+				2*
+s			-		[5]
+		-
+	s				[4]
+-				-
+-	-			3	[4]
+			-		[5]
+				2
+s				-
+4 Part.
+2* = s- in parts 1 and 3.
+
+[Rutland Surprise,8]
+
+# 288 - TODO: Don't understand use of 1 
+1	2	B	H
+s	s		-
+		-	-
+s = 1256
+
+[Plain Bob,9]
+
+# 288 - False
+4	H	23456789
+s	s	24356879
+s	s	23456789
+
+# 5166 - False
+#by D.Knox
+W	3	4	M	H
+	-	s		s
+-				3
+-			-	3	:A
+-			-	s	:A
+2			-	3	:A
+-		-	-	s
+-		s		3
+A
+-			-	s
+-		s		3
+A
+
+[Stedman,9]
+
+#171 - TODO: Can't prove
+#1	5
+#-	-
+#a
+#a = 1,2,3,5,8.
+
+[Plain Bob,10]
+
+#420 - TODO: False?
+#	23456
+#6A	34256
+#6A	42356
+#6A	23456
+#A = - or s, but number of singles must be even.
+
+#1260 - TODO: False
+4	5	6
+	-
+-		-	[10]
+	s
+-		-	[10]
+	-	
+-	s
+-		-	[10]
+
+#c1 = { p p p p b p p p p ce }
+#c2 = { p p p b p b p p p p ce }
+#c3 = { p p p p s p p p p ce }
+#c4 = { p p p b s p p p p ce }
+#composition = { c1 c2 c3 c2 c1 c4 c2 }
+
+#5024 - TODO: False
+1	2	3	4	5	9
+	-		-	-	3
+				-	-
+			-	-	2
+				-	3
+				-	2
+				-	3
+			-	-	3
+	-				s
+-	-	-				[4]
+-	-	-				[4]
+	-		-	-	3
+				-	3
+				-	2
+			-		3
+			-		2
+			-		3
+2 Part.
+
+c1 = { p b p b b p p p b ce } !2459
+c2 = { p p p p p p p p b ce } !9
+c3 = { p p p p b p p p b ce } !59
+c4 = { p p p b b p p p b ce } !459
+pt1 = { c1 c2 c2 c3 c4 c2 c3 c2 c2 c3 c2 c3 c2 c2 c4 c2 c2 }
+c5 = { p b p p p p p p s ce } !2s9
+c6 = { b b b p ce }
+pt2 = { c5 c6 c6 }
+c7 = { p p p b p p p p b ce } !49
+pt3 = { c1 c2 c2 c3 c2 c2 c3 c2 c7 c2 c2 c7 c2 c7 c2 c2 }
+composition = { pt1 pt2 pt3 pt1 pt2 pt3 }
+
+[Kent Treble Bob,10]
+
+#1320 - TODO: False
+#B	H	2345678
+#	-
+#-	-
+#-	-
+#-
+
+[Plain Bob,11]
+
+1	4	5	6	10
+				s
+		-	s
+-		-		3*	
+-				3*
+	s
+-	-			3*
+-				3*
+	s	-	-
+-	s			4*
+-				2
+3* = --s.
+4* = -s--.
+
+c1 = { p p p p p p p p p s ce }
+c2 = { p p p p b s p p p p ce }
+c3 = { b p p p b p p p p b p p p p p p p p p b p p p p p p p p p s ce }
+c4 = { b p p p p p p p p b p p p p p p p p p b p p p p p p p p p s ce }
+c5 = { p p p s p p p p p p ce }
+c6 = { b p p b p p p p p b p p p p p p p p p b p p p p p p p p p s ce }
+c7 = { p p p s b b p p p p ce }
+c8 = { b p p s p p p p p b p p p p p p p p p s p p p p p p p p p b p p p p p p p p p b ce }
+c9 = { b p p p p p p p p b p p p p p p p p p b ce }
+composition = { c1 c2 c3 c4 c5 c6 c4 c7 c8 c9 }
+
+[Erin,11]
+
+5019
+# by S.Jenner
+1	5	6	7	8
+-		-	s	-	:A	:B
+			-	-	:A	:B
+		-		-	:A	:B
+			-	-	:A	:B
+		-		-	:A	:B
+			-	-	:A	:B
+		-	s	-	:A	:B
+			-	-	:A	:B
+		-		-	:A	:B
+			-	-	:A	:B
+	s	-	-	-		:B
+	s		-			:B
+	s		-			:B
+	-		-			:B
+#A*						:B
+#!
+		-	s	-	:A	:B
+			-	-	:A	:B
+		-		-	:A	:B
+			-	-	:A	:B
+		-		-	:A	:B
+			-	-	:A	:B
+		-	s	-	:A	:B
+			-	-	:A	:B
+		-		-	:A	:B
+			-	-	:A	:B
+#!
+a					[22]
+B
+b					[20]
+B
+#A* = A committing - @ 1.
+a = s2,6,8,s11,s13,18,19.
+b = 2,6,8,s13,18,19.
+
+[Bristol_0blh Surprise,12]
+
+# 1250 - TODO: False
+#I	5	O
+#	-	-
+#-	-	s
+#Rounds in 194 changes.

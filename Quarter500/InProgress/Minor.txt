@@ -1,0 +1,956 @@
+[Grandsire,6]
+
+# False?
+#continue_after_rounds
+#c1 = { p b p p b p b s p b p b p p b p s p ce }
+#c2 = { p b p p b p b s p b p b p p b p b p ce }
+#composition = { c1 c1 c2 c1 c1 c2 }
+
+[P=Plain Bob,6]
+
+564
+W	B	H	23456
+-		-	45236
+-			34256
+#!
+-		-	25346
+-			42356
+-		-	35426
+-		s	24356
+#!
+#2A	s	24356
+-	-	-	52346
+-	-	-	45326
+-		s	23456
+
+1260
+#1259
+W	4	I	H	(24365)
+			-	53246
+s		2		54236
+	-			32456
+		2		53426	:A
+	-			24356	:A
+4*			-	32456
+4*			-	43256
+4*			-	24356
+A				43256
+s			2	32546
+4* = -s-s
+# Round at handstroke in the lead after the final call.
+# At the start 3456 lie still for the first change, i.e.:
+# 123456
+# 213456
+# 231546 etc.
+
+1296
+	23456
+s	32564	1
+s	23645	1
+s	32456	1
+s	23564	1
+s	32645	1
+	24356	1
+s	42563	1
+s	24635	1
+	43256	1
+#!
+s	34562	1
+s	43625	1
+s	34256	1
+s	43562	1
+s	34625	1
+	42356	1
+#!
+#A	42356
+s	24563	1
+s	64352	2
+s	46523	1
+s	64235	1
+s	46352	1
+	52634	2
+s	25346	1
+s	52463	1
+s	25634	1
+s	52346	1
+s	25463	1
+	63542	2
+#!
+s	36425	1
+s	63254	1
+s	36542	1
+s	63425	1
+s	36254	1
+	54623	2
+#!
+#B	54623
+#!
+s	45236	1
+s	54362	1
+s	45623	1
+s	54236	1
+s	45362	1
+	62534	2
+#!
+#B	62534
+#!
+s	26345	1
+s	62453	1
+s	26534	1
+s	62345	1
+s	26453	1
+	53642	2
+#!
+#B	53642
+#!
+s	35426	1
+s	53264	1
+s	35642	1
+s	53426	1
+s	35264	1
+	64523	2
+#!
+#B	64523
+	23456	2
+#!
+s	32564	1
+s	23645	1
+s	32456	1
+s	23564	1
+s	32645	1
+	24356	1
+s	42563	1
+s	24635	1
+	43256	1
+s	34562	1
+s	43625	1
+s	34256	1
+s	43562	1
+s	34625	1
+	42356	1
+	63542	3
+s	36425	1
+s	63254	1
+s	36542	1
+s	63425	1
+s	36254	1
+	54623	2
+s	45236	1
+s	54362	1
+s	45623	1
+s	54236	1
+s	45362	1
+	62534	2
+s	26345	1
+s	62453	1
+s	26534	1
+s	62345	1
+s	26453	1
+	53642	2
+s	35426	1
+s	53264	1
+s	35642	1
+s	53426	1
+s	35264	1
+	64523	2
+	23456	2
+#!
+# Repeat calling plain lead for C.
+# [Requires labelling]
+
+#W	B	H	(23465)
+#	-
+#s
+#-		-
+#3		-
+#ss	ss	-
+# Start at backstroke with a single.
+
+[C=Cambridge Surprise,6]
+
+1260
+	23456	C
+	56342	C
+s	46235	P
+s	64352	C
+-	45236	P
+-	45362	C
+	62534	C
+s	32456	P
+s	23564	C
+s	63452	P
+s	36524	C
+	24653	P
+	45236	C
+s	35624	P
+-	35246	P
+s	53462	P
+	36524	P
+	62345	P
+	24653	C
+-	45362	P
+	56423	P
+	62534	P
+	23645	C
+s	43562	P
+-	43625	P
+s	34256	C
+3 part.
+# Contains each change once, but not more than twice. No internal rounds.
+
+[S=St Clements College Bob,6]
+[X=Double Oxford Bob,6]
+[T=Thelwall Bob,6]
+[C=Childwall Bob,6]
+[L=Little Bob,6]
+[D=Double Bob,6]
+[R=Reverse Bob,6]
+
+#B	W	H
+#	-	-	SXTCC
+#ss	-	s	SXLDXCS
+#		s	PRDP
+#3 part.
+#Composition #5: Repeated change found at change 181 of 565: 526341
+
+[Kent Treble Bob,6]
+
+#555
+#4	W	H	(32546)
+#	2		24536
+#-		2	54326
+#	-		25346
+# Start at backstroke with a single (s = 1456). Round 2 changes after W.
+# Will produce 1275's only is the 720 is sandwiched inside this calling.
+# Does not end in rounds. (Last change 125346.)
+
+[Bourne Surprise,6]
+
+550
+	(25364)
+-	43256	3
+-	24356	5
+-	24563	2
+-	52463	5
+-	45263	5
+s	23456	3
+# Start from treble snap after W.
+
+#W	H	23456
+#	-
+#-	2
+#-	-
+#s
+# Round in 2 changes.
+#Composition #5: Repeated change found at change 527 of 531: 125364
+
+# Use 574's of Durham, York, etc.
+
+[Cambridge Surprise,6]
+
+530
+4	O	I	W	H	23456
+-	-	-			32546	:A
+-	-	-		-	42356	:A
+A					34256
+-			s		(32456)
+# Round in 2 changes.
+
+530
+	23456
+-	23564	3
+-	23645	3
+-	34562	1
+-	34625	3
+-	34256	3
+-	62345	2
+-	36245	5
+s	25364	2
+# Round in 2 changes.
+
+554
+4	O	I	W	H	23456
+-			-	-	32546
+		-		-	52436
+-					34256
+		-		-	24536
+	2		s		(32456)
+# Round in 2 changes.
+
+1296
+	23456
+s	32564	3
+s	62453	1
+-	25346	1
+-	25463	3
+s	43256	2
+s	34562	3
+s	64253	1
+-	64532	3
+s	34256	1
+3 part.
+# Contains each change once, but not more than twice. No internal rounds.
+
+#O	W	O	I	H	(32456)
+#-	-
+#	-	-	-	-
+#-	-			-
+#	-			s
+# Start at backstroke snap after W.
+# Also true for Beverley, Surfleet, etc.
+# Repeated change found: 123456
+
+1274
+4	W	O	I	H	23456
+-	ss	-	-		32546
+-	ss	-	-	-	42356
+-		-	-		24536
+-	ss	-	-	-	34256
+-		-	-		43526
+-	ss	-	-	s	32456
+# Round 2 changes after W, 3 leads after final s.
+# Also true for Beverley, Surfleet, etc.
+
+#!
+
+[Beverley Surprise,6]
+
+1274
+4	W	O	I	H	23456
+-	ss	-	-		32546
+-	ss	-	-	-	42356
+-		-	-		24536
+-	ss	-	-	-	34256
+-		-	-		43526
+-	ss	-	-	s	32456
+
+[Surfleet Surprise,6]
+
+1274
+4	W	O	I	H	23456
+-	ss	-	-		32546
+-	ss	-	-	-	42356
+-		-	-		24536
+-	ss	-	-	-	34256
+-		-	-		43526
+-	ss	-	-	s	32456
+
+[Cambridge Surprise,6]
+
+#!
+
+#4	O	I	W	B	H	(32546)
+#	-	-	-
+#	-			s	-
+#			2	ss	-
+#			2		-
+#			-		ss
+#			-	s
+#-
+# Round 2 changes after W. Backstroke start with a single.
+# Also true for Beverley, Surfleet, etc.
+#Does not end in rounds. (Last change 142356.)
+
+1296
+3	I	4	W	H	23456
+s	-				24356
+			-		52346
+		s	-	-	45236
+			-		34256
+3 part.
+# Also true for Beverley, Surfleet, etc.
+
+#!
+
+[Beverley Surprise,6]
+
+1296
+3	I	4	W	H	23456
+s	-				24356
+			-		52346
+		s	-	-	45236
+			-		34256
+3 part.
+
+[Surfleet Surprise,6]
+
+1296
+3	I	4	W	H	23456
+s	-				24356
+			-		52346
+		s	-	-	45236
+			-		34256
+3 part.
+
+[Cambridge Surprise,6]
+
+#!
+
+1440
+4	3	W	2	H	23456
+s		-		s	25346
+s		-	s	-	32546
+	s	-	s	s	53426
+	s	-			42356
+3 part.
+# Also true for Beverley, Surfleet, etc.
+
+#!
+
+[Beverley Surprise,6]
+
+1440
+4	3	W	2	H	23456
+s		-		s	25346
+s		-	s	-	32546
+	s	-	s	s	53426
+	s	-			42356
+3 part.
+
+[Surfleet Surprise,6]
+
+1440
+4	3	W	2	H	23456
+s		-		s	25346
+s		-	s	-	32546
+	s	-	s	s	53426
+	s	-			42356
+3 part.
+
+[Cambridge Surprise,6]
+
+#!
+
+# Reduce to 1344 by inserting s 2nds, sH in last course of one part, and omitting the first course of the next part.
+
+#!
+
+1344
+4	3	W	2	H	23456
+s		-		s	25346
+s		-	s	-	32546
+	s	-	s	s	53426
+	s	-	s	s	45236
+s		-	s	-	24536
+	s	-	s	s	52346
+	s	-			34256
+s		-		s	35426
+s		-	s	-	43526
+	s	-	s	s	54236
+	s	-			23456
+
+#!
+
+554
+	23456
+-	56423	4
+-	34562	2
+-	34625	3
+-	25634	4
+-	53462	1
+-	45362	5
+-	45623	3
+s	25364	1
+# Round in 2 changes.
+# Also true for Beverley, Surfleet, etc.
+
+#!
+
+[Beverley Surprise,6]
+
+554
+	23456
+-	56423	4
+-	34562	2
+-	34625	3
+-	25634	4
+-	53462	1
+-	45362	5
+-	45623	3
+s	25364	1
+
+[Surfleet Surprise,6]
+
+554
+	23456
+-	56423	4
+-	34562	2
+-	34625	3
+-	25634	4
+-	53462	1
+-	45362	5
+-	45623	3
+s	25364	1
+
+[Cambridge Surprise,6]
+
+#!
+
+[Carlisle Surprise,6]
+552
+	23456
+-	35642	2
+-	54263	2
+-	46325	2
+-	46253	1
+-	65324	2
+-	52436	2
+-	52364	1
+-	26435	2
+-	63542	2
+-	34256	2
+-	23456	5
+# Contains no 65's at backstroke.
+# Also true for Chester and Munden
+
+#!
+
+[Chester Surprise,6]
+
+552
+	23456
+-	35642	2
+-	54263	2
+-	46325	2
+-	46253	1
+-	65324	2
+-	52436	2
+-	52364	1
+-	26435	2
+-	63542	2
+-	34256	2
+-	23456	5
+
+[Munden Surprise,6]
+
+552
+	23456
+-	35642	2
+-	54263	2
+-	46325	2
+-	46253	1
+-	65324	2
+-	52436	2
+-	52364	1
+-	26435	2
+-	63542	2
+-	34256	2
+-	23456	5
+
+#!
+
+[Durham Surprise,6]
+
+554
+	23456
+-	42356	5
+-	34256	5
+-	62345	4
+-	36245	5
+s	25364	4
+# Round in 2 changes.
+# Also true for York.
+
+#!
+
+[York Surprise,6]
+
+554
+	23456
+-	42356	5
+-	34256	5
+-	62345	4
+-	36245	5
+s	25364	4
+
+[Durham Surprise,6]
+
+#!
+
+574
+	(25364)
+-	43256	4
+-	24356	5
+-	24563	1
+-	52463	5
+-	45263	5
+s	23456	4
+# Start with treble snap after W.
+# Also true for York.
+
+#!
+
+[York Surprise,6]
+
+574
+	(25364)
+-	43256	4
+-	24356	5
+-	24563	1
+-	52463	5
+-	45263	5
+s	23456	4
+
+[Durham Surprise,6]
+
+#!
+
+578
+	23456
+-	23564	1
+-	23645	1
+-	34562	2
+-	34625	1
+-	63425	5
+-	63254	1
+-	35426	2
+-	35264	1
+-	56423	2
+-	62345	2
+-	45362	3
+-	45623	1
+s	25364	2
+# Round in 2 changes.
+# Also true for York.
+
+#!
+
+[York Surprise,6]
+
+578
+	23456
+-	23564	1
+-	23645	1
+-	34562	2
+-	34625	1
+-	63425	5
+-	63254	1
+-	35426	2
+-	35264	1
+-	56423	2
+-	62345	2
+-	45362	3
+-	45623	1
+s	25364	2
+
+[Durham Surprise,6]
+
+#!
+
+[Chester Surprise,6]
+# Group G
+576
+	23456
+-	35642	2
+-	35426	1
+-	26435	3
+-	63542	2
+-	63425	1
+-	25463	3
+-	56342	2
+-	64235	2
+-	64352	1
+-	45236	2
+-	45362	1
+-	23456	4
+
+# Group G
+[Chester Surprise,6]
+
+648
+	23456
+-	35642	2
+-	63542	5
+	42356	2
+3 part.
+
+# Group G
+#!
+600
+# As above 648, but call one part:
+	23456
+-	56423	3
+-	56234	1
+	42356	3
+#!
+-	25634	2
+-	62534	5
+	34256	2
+-	45623	2
+-	64523	5
+	23456	2
+#!
+# Contains no 65's at backstroke for Carlisle above methods.
+
+[Beverley Surprise,6]
+# Group H
+
+552
+	23456
+-	35642	1
+-	35426	3
+-	35264	3
+-	42356	2
+-	56342	4
+-	64235	1
+-	43526	1
+-	32654	1
+-	32546	3
+-	24653	1
+-	45362	1
+-	23456	2
+
+[Ipswich Surprise,6]
+
+530
+	23456
+-	23564	4
+-	45236	1
+-	24536	5
+-	52436	5
+-	23645	3
+-	34562	3
+s	25364	1
+s = 1456
+# Round in 2 changes.
+
+[London Surprise,6]
+# Group K
+
+552
+	23456
+-	23564	4
+-	52364	5
+-	26435	3
+-	63542	3
+-	34256	3
+-	23456	5
+
+552
+	23456
+-	64235	1
+-	35264	2
+-	42356	1
+-	42563	4
+-	35426	1
+-	26435	2
+-	54263	1
+-	25463	5
+-	34256	1
+-	23456	5
+
+552
+	23456
+-	64235	1
+-	35264	2
+-	42356	1
+-	42563	4
+-	42635	4
+-	23564	3
+-	23645	4
+-	23456	4
+
+# Group L
+[Primrose Surprise,6]
+
+552
+	23456
+-	23564	5
+-	45236	3
+-	62453	3
+-	34625	3
+-	34256	5
+-	23456	4
+
+[London Surprise,6]
+
+1298
+B	W	H	23456
+	s		53426
+s		s	52346
+s		s	54236
+ss		s	52436
+s		s	53246
+s	s	3*	32456
+2			43256
+3* = --s.
+# Round 2 changes, 3 leads after final call.
+# Changed final course end to final as it's past home
+
+[York Surprise,6]
+# Also Durham
+574
+W	H	(32456)
+	-	43256
+3	-	24356
+	s	23456
+# Start at treble snap after Wrong.
+
+#!
+
+[Durham Surprise,6]
+
+574
+W	H	(32456)
+	-	43256
+3	-	24356
+	s	23456
+
+#!
+
+#Also gives 550 Bourne.
+
+#!
+
+[Bourne Surprise,6]
+
+550
+W	H	(32456)
+	-	43256
+3	-	24356
+	s	23456
+
+#!
+
+[C=Cambridge Surprise,6]
+[L=London Surprise,6]
+
+1440
+4	3	W	H				23456
+	s		s	CCLL		53246
+	s	s		CCLCC		25346
+ss			ss	CLLCCCLLLLL	34256
+3 part.
+# Start with Cambridge and change method after each call.
+# For 1320 omit ssH in 2nd part.
+
+#!
+
+1320
+4	3	W	H				23456
+	s		s	CCLL		53246
+	s	s		CCLCC		25346
+ss			ss	CLLCCCLLLLL	34256
+	s		s	CCLL		54326
+	s	s		CCLCC		35426
+ss				CLLCCC		42356
+	s		s	CCLL		52436
+	s	s		CCLCC		45236
+ss			ss	CLLCCCLLLLL	23456
+
+#!
+
+# For 1322 omit ssH in 2nd part and call -B in place of final sH. Round at backstroke snap.
+
+#!
+
+1322
+B	4	3	W	H				23456
+		s		s	CCLL		53246
+		s	s		CCLCC		25346
+	ss			ss	CLLCCCLLLLL	34256
+		s		s	CCLL		54326
+		s	s		CCLCC		35426
+	ss				CLLCCC		42356
+		s		s	CCLL		52436
+		s	s		CCLCC		45236
+	ss			s	CLLCCC		24356
+-					LLLLLL		43256
+
+#!
+
+1440
+4	3	W	2	H			23456
+	s	s	s	s	CCLCLLL	45236
+		s		s	CCCL	32546
+s		s		s	CLLLCC	34526
+			s		LLC		34256
+3 part.
+# Start with Cambridge and change method after each call.
+
+[C=Carlisle Surprise,6]
+[N=Northumberland Surprise,6]
+[S=Sandiacre Surprise,6]
+[W=Whitley Surprise,6]
+[O=Wooler Surprise,6]
+
+576
+1	2	3	4	6	23456
+-					NNS		54326	[3]
+		-			NCCCW	42356	[5]
+	-				WS		34256	[2]
+	-	-		-	NCCCCNS	52436	[7]
+			-	-	NCCNONS	23456	[7]
+
+[C=Chester Surprise,6]
+[T=Canterbury Surprise,6]
+[M=Morpeth Surprise,6]
+[N=Newcastle Surprise,6]
+[A=Alnwick Surprise,6]
+
+576
+	23456	C
+	35264	C
+-	35642	M
+	42563	M
+	63254	M
+	54326	T
+	26435	M
+-	35426	N
+	64235	A
+	52364	N
+-	64352	M
+	52436	T
+	36245	M
+	45623	M
+	23564	M
+-	64523	C
+	42635	C
+-	42356	C
+	25463	C
+	56234	C
+-	56342	C
+-	56423	C
+	62534	C
+	23645	C
+-	23456	C
+
+[C=Cambridge Surprise,6]
+[B=Beverley Surprise,6]
+[S=Surfleet Surprise,6]
+[P=Primrose Surprise,6]
+[E=Berwick Surprise,6]
+[H=Hexham Surprise,6]
+[A=Appleby Surprise,6]
+
+720
+	23456	E
+	35264	P
+	56342	A
+	24653	H
+	45236	P
+	53462	B
+	62345	C
+-	24536	S
+	36452	A
+-	62534	C
+	34256	H
+	45362	P
+	56423	A
+	32654	P
+	25346	P
+	54263	S
+	63425	B
+-	32546	C
+	46253	A
+-	63542	B
+	42356	P
+	25463	P
+	56234	A
+	43652	E
+	35426	P
+	52364	C
+	64235	S
+-	43526	B
+	26354	A
+-	64523	S

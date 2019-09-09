@@ -1,0 +1,215 @@
+[London Surprise,6]
+
+1298
+B	W	H	23456
+	s		53426
+s		s	52346
+s		s	54236
+ss		s	52436
+s		s	53246
+s	s	3*	32456
+2			43256
+3* = --s.
+# Amended last course end to complete
+
+
+[P=Plain Bob,6]
+
+1260
+W	4	I	H	(24365)
+			-	53246
+s		2		54236
+	-			32456
+		2		53426	:A
+	-			24356	:A
+4*			-	32456
+4*			-	43256
+4*			-	24356
+A				43256
+s			2	32546
+4* = -s-s
+
+[Cambridge Surprise,6]
+
+530
+4	O	I	W	H	23456
+-	-	-			32546	:A
+-	-	-		-	42356	:A
+A					34256
+-			s		(32456)
+
+1344
+4	3	W	2	H	23456
+s		-		s	25346
+s		-	s	-	32546
+	s	-	s	s	53426
+	s	-	s	s	45236
+s		-	s	-	24536
+	s	-	s	s	52346
+	s	-			34256
+s		-		s	35426
+s		-	s	-	43526
+	s	-	s	s	54236
+	s	-			23456
+
+[B=Bristol Surprise,8]
+[C=Cambridge Surprise,8]
+[N=Lincolnshire Surprise,8]
+[L=London Surprise,8]
+[P=Pudsey Surprise,8]
+[R=Rutland Surprise,8]
+[S=Superlative Surprise,8]
+[Y=Yorkshire Surprise,8]
+[E=Bristol Surprise,8]
+[F=London Surprise,8]
+[G=Bristol Surprise,8]
+[H=Bristol Surprise,8]
+[U=Superlative Surprise,8]
+[V=Cambridge Surprise,8]
+[W=Yorkshire Surprise,8]
+[X=Cambridge Surprise,8]
+[Xc=Yorkshire Surprise,8]
+[Xy=Cambridge Surprise,8]
+[Xn=Cambridge Surprise,8]
+[Xs=Cambridge Surprise,8]
+[Xp=Cambridge Surprise,8]
+[Z=Cambridge Surprise,8]
+
+
+130
+H	23456
+2*	BBHX(V)	(32456)
+2* = s-.
+
+253
+B	H	234567
+	s	LXyF	243567
+s		XXHX(P)	(243576)
+
+
+258
+M	B	23456
+	-	XXXyU	35264
+2*		LBGU(S)	25364
+2* = s-.
+
+[Grandsire,11]
+
+264
+1	2	4	5	234567890E
+-	-	-	-	32456789E0	[6]
+-	-	-	-	234567890E	[6]
+
+[Stedman,7]
+
+168
+3	8	23145
+-	-	43521	[14]
+-	-	(23145)	[14]
+
+[Durham Surprise,6]
+
+146
+	23456	
+-	23564	1
+s	25364	5
+
+[Erin,9]
+
+
+5076
+# by D.Barton
+1	4	5	6	9	132547698
+-		s		-	123549876
+s				-	123546798
+s	-	-	-		542316978	:A
+	-	-	-		314256978	:A
+	-	-	-		251436978	:A
+	-	-	-		435126978	:A
+	-		-		152346978	:A
+#!
+	-	-	-		345216978	:B
+	-	-	-		214536978	:B
+	-	-	-		531426978	:B
+	-	-	-		423156978	:B
+	-		-		135246978	:B
+B					123546978
+#!
+#2A					123546978
+#!
+A					152346798
+#!
+#s		A			152346798
+#!
+-	-	-	-		345216879
+	-	-	-		214536879
+	-	-	-		531426879
+	-	-	-		423156879
+	-		-		135246879
+#!
+#-		A			135246879
+-	-	-	-	-	243517968
+	-	-	-		514327968
+	-	-	-		321457968
+	-	-	-		452137968
+	-		-		123547968
+#!
+A					152347698
+2B					123547698
+#!
+#s		3A			123547698
+2 Part.
+
+[Stedman,9]
+
+87
+#!
+1	4	9	11	13	14	231456789
+#!
+a						214365879
+a = 1,4,9,11,13,14.
+
+[C=Cambridge Surprise,6]
+[L=London Surprise,6]
+
+1322
+B	4	3	W	H				23456
+		s		s	CCLL		53246
+		s	s		CCLCC		25346
+	ss			ss	CLLCCCLLLLL	34256
+		s		s	CCLL		54326
+		s	s		CCLCC		35426
+	ss				CLLCCC		42356
+		s		s	CCLL		52436
+		s	s		CCLCC		45236
+	ss			s	CLLCCC		24356
+-					LLLLLL		43256
+
+#[Primrose Surprise,6]
+#
+#-	5
+#-	2
+#	2
+#3 part.
+
+[B=Bristol Surprise,12]
+[C=Cambridge Surprise,12]
+[N=Lincolnshire Surprise,12]
+[L=Londinium Surprise,12]
+[R=Lyddington Surprise,12]
+[G=Newgate Surprise,12]
+[T=Prittlewell Surprise,12]
+[P=Pudsey Surprise,12]
+[S=Superlative Surprise,12]
+[W=Wembley Surprise,12]
+[Y=Yorkshire Surprise,12]
+[E=Lyddington Surprise,12]
+[F=Newgate Surprise,12]
+[H=Newgate Surprise,12]
+[V=Cambridge Surprise,12]
+[M=Cambridge Surprise,12]
+[X=Cambridge Surprise,12]
+
+384
+H				23465
+	FXXFBXXM	23456

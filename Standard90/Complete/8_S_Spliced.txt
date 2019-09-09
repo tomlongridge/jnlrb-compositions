@@ -1,0 +1,796 @@
+[B=Bristol Surprise,8]
+[C=Cambridge Surprise,8]
+[N=Lincolnshire Surprise,8]
+[L=London Surprise,8]
+[P=Pudsey Surprise,8]
+[R=Rutland Surprise,8]
+[S=Superlative Surprise,8]
+[Y=Yorkshire Surprise,8]
+[E=Bristol Surprise,8]
+[F=London Surprise,8]
+[G=Bristol Surprise,8]
+[H=Bristol Surprise,8]
+[U=Superlative Surprise,8]
+[V=Cambridge Surprise,8]
+[W=Yorkshire Surprise,8]
+[X=Cambridge Surprise,8]
+[Xc=Yorkshire Surprise,8]
+[Xy=Cambridge Surprise,8]
+[Xn=Cambridge Surprise,8]
+[Xs=Cambridge Surprise,8]
+[Xp=Cambridge Surprise,8]
+[Z=Cambridge Surprise,8]
+
+66
+M			23456
+2*	LB(L)	(43256)
+2* = s-.
+
+96
+H		23456
+	FXF	23456
+
+98
+W			23456
+2*	GXB(V)	(32456)
+2* = -s.
+
+130
+H	23456
+2*	BBHX(V)	(32456)
+2* = s-.
+
+130
+M			23456
+s	LXL		63452
+-	F(L)	(43256)
+
+160
+H			23456
+	FXXXX	23456
+
+162
+B	H			23456
+-	-	XXXX	23564
+	s	B(S)	25364
+
+194
+H			23456
+2*	BBXXUX(V)	(32456)
+2* = s-.
+
+194
+W	H			23456
+-	2*	FXRB	42536
+		EX(P)	(42536)
+2* = -s.
+
+194
+M			23456
+s	LXF		63452
+-	XXX(L)	(43256)
+
+194
+M	W			23456
+	-	FXH		52436
+2*		LBX(P)	(42536)
+2* = s-.
+
+224
+H			23456
+#7A	XXXXXXX	23456
+#!
+	XXXXXXX	23456
+
+224
+5	B	I	M	W	4	H			23456
+-	-	-	-	-	-	-	XXXXXXX	23456
+#!
+#A = all plain leads or all bob leads.
+
+226
+B	H			23456
+-	-	UXXX	23564
+	s	FXpF(S)	25364
+
+226
+B	H			23456
+-	-	UXXpX	23564
+	s	FFX(S)	25364
+
+226
+M	B	W	23456
+	-	-	LRLBLB	63254
+s			L(L)	(43256)
+
+226
+M	B	W	23456
+	-	-	LLRBRB	63254
+s			R(L)	(43256)
+
+251
+B	W				(425367)
+	-	BF			345267
+s		XXXcXXn(L)	(345276)
+# Start at backstroke snap.
+
+# 251: TODO - can't prove
+#B	H				(432567)
+#	s	LXp			243567
+#s		XXcXpXnF	243576
+#		B			234567
+# Start at backstroke snap.
+
+253
+B	H	234567
+	s	LXyF	243567
+s		XXHX(P)	(243576)
+
+256
+W	H	23456
+-	-	HXXcXXp	45236
+-	-	HXF	23456
+
+256
+M	B	W	23456
+-	-		LHFXXp	35426
+		-	FXG	23456
+
+256
+M	B	W	H	23456
+-	-	-	3	RLRLRLBB	23456
+
+# Alternative callings:
+# LRLRLRBB
+#!
+
+256
+M	B	W	H	23456
+-	-	-	3	LRLRLRBB	23456
+
+#!
+# RBRBRRBB
+#!
+
+256
+M	B	W	H	23456
+-	-	-	3	RBRBRRBB	23456
+
+#!
+# LBLBLLBB
+#!
+
+256
+M	B	W	H	23456
+-	-	-	3	LBLBLLBB	23456
+
+#!
+# RBRLRLBB
+#!
+
+256
+M	B	W	H	23456
+-	-	-	3	RBRLRLBB	23456
+
+#!
+# LBLRLRBB
+#!
+
+256
+M	B	W	H	23456
+-	-	-	3	LBLRLRBB	23456
+
+#!
+# Reduce to 192 by omitting 3H together with last BB.
+#!
+
+192
+M	B	W	23456
+-	-	-	RLRLRL	23456
+
+#!
+
+258
+H	23456
+s	XXsXyFU	24356
+-	B	32456
+	HXs(V)	(32456)
+
+258
+B	W	H	23456
+	2*		HUBH	25436
+-		-	XsXVXS	25364
+2* = s-.
+
+258
+M	W	23456
+	-	FXG	52436
+s		LXF	62435
+-		FX(P)	(42536)
+
+258
+M	B	23456
+	-	XXXyU	35264
+2*		LBGU(S)	25364
+2* = s-.
+
+287
+B	W	H	234567
+	-	2	LXpFB	245367
+s	-		XXyXX(B)	(325476)
+
+288
+H		23456
+2		BB	34256
+-		XXXcXXcXX	23456
+
+288
+H			23456
+-	B		42356
+-	FXpF	34256
+-	XXRXyX	23456
+
+290
+W	23456
+-	XXsXpXF	52436
+s	XpXyXX(V)	(32456)
+
+290
+M	B	W	H	23456
+	-	-	3	LLRLRLBB	63254
+s				R(L)	(43256)
+
+290
+M	B	W	H	23456
+	-	-	3	LRLRLRBB	63254
+s				L(L)	(43256)
+
+317
+B	W	H	234567
+	2	s	XpWXyXBF	345267
+s			XXF(L)	(345276)
+
+320
+W	H	23456
+-	-	HXpF	45236
+-	-	XXXcXXcXX	23456
+
+320
+B	M	W	23456
+-			XpXXXp	35264
+		-	FXH	63254
+	-		FXF	23456
+
+351
+B	W	H	234567
+		s	B	243567
+	-	-	HXF	352467
+s		s	UXcXXF	325476
+			Xc(L)	(325476)
+
+354
+W	23456
+-	XpXsXpXXXX	52436
+s	XpXyXX(V)	(32456)
+
+354
+B	H	23456
+-	-	XXXpX	23564
+	s	XXXXpXXX(S)	25364
+
+384
+B	H	23456
+-	-	XXXX	23564
+3 part.
+
+#384 - TODO: Unsupport syntax
+#A	XXXXpXX
+#2 part.
+#A = ---ppp
+
+416
+M	W	H	23456
+3	3	3	FBBFFFFFBBFBB	23456
+
+# Shorten to taste by omitting any combination of 3 together with corresponding BB per 3.
+
+#!
+
+352
+W	H	23456
+3	3	FFFFFFBBFBB	23456
+
+352
+M	H	23456
+3	3	FBBFFFFFFBB	23456
+
+352
+M	W	23456
+3	3	FBBFFFFFBBF	23456
+
+288
+M	23456
+3	FBBFFFFFF	23456
+
+288
+W	23456
+3	FFFFFFBBF	23456
+
+288
+H	23456
+3	FFFFFFFBB	23456
+
+224
+H	23456
+	FFFFFFF	23456
+
+#!
+
+1250 (2m)
+W	H			23456
+	-	YCYCYYC	42356
+	-	YYYCYCY	34256
+-		YCYCCYC	53246
+-	-	YCCCYCY	24536
+	-	CYYCYCY	52436
+s		CCYY(Y)	(32456)
+
+1280 (2-4m)
+B	H			23456
+	-	RVR		42356
+-	-	CVRRR	42563
+5 part.
+
+#TODO: 1280 (3m) - FALSE
+#B	M	H
+#-			CYSC
+#	-		YSCSCSY
+#-			YCCS
+#	-	-	SCYCSYC
+#-		-	YSYC
+#		-	CYSYYCS
+#		-	CSCYCCY
+
+1250 (3-5m)
+W	H	23456
+	-	CYYCYCN	42356
+	-	NYYCNCN	34256
+-		CYYNCCN	53246
+-	-	NYYCCCN	24536
+	-	NYYCNCN	52436
+s		NYYN(N)	(32456)
+
+#4m:
+#CYSCYCN
+#NSSCNSN
+#CYSNCSN
+#NYYCCSN
+#NSYCNSN
+#NYYN(N)
+
+#!
+
+1250 (3-5m)
+W	H	23456
+	-	CYSCYCN	42356
+	-	NSSCNSN	34256
+-		CYSNCSN	53246
+-	-	NYYCCSN	24536
+	-	NSYCNSN	52436
+s		NYYN(N)	(32456)
+
+#!
+
+#5m:
+#NPCPYCS
+#PCYNCPY
+#CSNYPSN
+#SPCSNYC
+#YNSCSNP
+#CYPC(C)
+
+#!
+
+1250 (3-5m)
+W	H	23456
+	-	NPCPYCS	42356
+	-	PCYNCPY	34256
+-		CSNYPSN	53246
+-	-	SPCSNYC	24536
+	-	YNSCSNP	52436
+s		CYPC(C)	(32456)
+
+#!
+
+1312 (4m)
+M	B	W	H	23456
+			-	LCCSC	42356
+-	-		-	LBBBSC	32546
+		-		LSCSC	43526
+-	-		-	LBBBSC	53246
+			-	LLC		25346
+		-	-	LSCSC	34256
+-	-			LBBBSC	45236
+		-	-	LSCSC	23456
+
+1280 (4-6m)
+M	W	H			23456
+	-	-	CNYYR	45236
+-		-	CNYYR	62534
+-	-	3	CNYYRCNYYRCNYYR	35426
+	-	3	CNYYRCNYYRCNYYR	23456
+
+#5m: call all courses CNSYR
+
+#!
+
+1280
+M	W	H			23456
+	-	-	CNSYR	45236
+-		-	CNSYR	62534
+-	-	3	CNSYRCNSYRCNSYR	35426
+	-	3	CNSYRCNSYRCNSYR	23456
+
+#!
+
+#5m: call all courses CNPYR
+
+#!
+
+1280
+M	W	H			23456
+	-	-	CNPYR	45236
+-		-	CNPYR	62534
+-	-	3	CNPYRCNPYRCNPYR	35426
+	-	3	CNPYRCNPYRCNPYR	23456
+
+#!
+
+#6m: call courses alternately CNSYR and CNPYR
+
+#!
+
+1280
+M	W	H			23456
+	-	-	CNSYR	45236
+-		-	CNPYR	62534
+-	-	3	CNSYRCNSYRCNSYR	35426
+	-	3	CNPYRCNPYRCNPYR	23456
+
+#!
+
+1280 (5m)
+B	W	H	23456
+	-		YCPSYCN	52436
+-			NSNP	23564
+-		-	PSPP	23645
+	-		YCPSYCN	42635
+-		-	NSSN	42356
+		-	YCPSYCN	34256
+		-	YCPSYCN	23456
+
+#TODO: 1280 (5m) - FALSE
+#M	W	H
+#-		-	RSYNN
+#	-		RCR
+#5 part.
+
+1344 (6m)
+M	B	W	H	23456
+-		-		CNYSR	54632
+	-			PPCN	43526
+	-		-	PNYN	43265
+			-	RYR		24365
+			-	RSPYS	32465
+2 part.
+
+1344 (6m)
+	2345678	Y
+-	3578264	C
+	8654327	R
+-	3586742	L
+-	7835264	B
+	3728456	S
+-	7856342
+7 part.
+
+1280 (7m)
+W	H	23456
+-	-	PPCSPPP	45236
+	-	LCL	24536
+	-	LCL	52436
+-	-	PPPPYNC	43526
+	-	LSSSS	54326
+-		RYYNC	25346
+-	-	RYYNC	34256
+	-	RYYNC	23456
+
+1280
+M	B	W	H	23456
+			-	B	42356
+-			-	LCR	63254
+-		-		LBBBBBBL	52436
+	-		-	RRRNY	52364
+-			2	LSRB	24365
+		-		BSYNC	62345
+-			2	LSYNCB	25346
+		-	-	BSYNC	34256
+			-	RSR	23456
+
+1280 (8m)
+B	W	H	23456
+	-		LYR		52436
+-		2	PNSCB	35264
+5 part.
+
+1250 (8m)
+M	B	W	H	23456
+	-		3	CYPNBB	35264
+-	-		-	CSNPNLYSY	25634
+	-	-	-	SNYLPYPSP	24536
+2			-	RBLS	26435
+			2	LCRB	64235
+-			-	RCR	52436
+		s		NSPC(Y)	(32456)
+
+5056 (2m)
+#by C.K.Lewis
+M	B	W	H	23456
+-				CCYYYYY	43652	:A
+-		-		CCCCYCY	56234	:A
+		-	-	YYCYCCY	23564	:A
+			-	YCYYCYC	52364	:A
+			-	YYYYCCC	35264	:A
+	-		-	CCCY	35642
+			-	YCYYCYC	63542
+			-	YYYYCCC	56342
+3A				23456
+
+5120 (2m)
+#By P.G.K.Davies
+B	W	H	23456
+	-	-	CCCNCCC	45236
+		-	NNNCNNN	24536
+		-	CCNNCCC	52436
+-		-	CCNC	52364
+		-	NNNCNNN	35264
+5 part.
+
+5090 (3m)
+#by B.D.Price and N.Smith
+M	B	W	H	23456
+			-	SYCCCYS	42356
+-				YSCYYSY	32654
+-		-		CCSSSCC	56423
+		-	-	YSYYCSY	42563
+			-	SYCCCYS	54263
+			-	SYCCCYS	25463
+-			-	YSCYYSY	34562
+		-	-	YSYYCSY	56342
+			-	SYCCCYS	35642
+			-	SYCCCYS	63542
+	-		-	YSSY	63425
+			-	SYCCCYS	46325
+			-	SYCCCYS	34625
+-				YSCYYSY	64523
+-		-		CCSSSCC	25346
+		-	-	YSYYCSY	34256
+		-		SYCCYSY	53246
+-		-		CCSSSCC	42635
+-			-	YSYCCYS	56234
+-				YSCYYSY	26435
+	-			CCCC	63254
+		-	-	YSYYCSY	25634
+			-	SYCCCYS	62534
+-		s		SYCY(Y)	(32456)
+
+5088 (3m)
+#By P.G.K.Davies
+M	W	H	23456
+		-	RRRRRRR	42356
+	-		RYCCY	54326
+	-	-	RCR		32546
+	-		RYCCY	43526
+-	-	-	RCR		62534
+		-	YYYCYCC	56234
+		-	RCR		25634
+	-	-	YYYCR	63254
+		-	CCCYR	26354
+	-	-	RYR		35264
+		-	CYYCYYC	23564
+3 part.
+
+5088 (4m)
+#by J.R.Leary
+M	W	H	23456
+	-		YPYPR	52436
+-	2	-	RPYRSSYR	62345
+-			RYR	32546
+-			SYYSR	52643
+-	-		PYPRRRRRPYP	46325
+	-		RSYYS	24365
+	-	-	RYR	36245
+2	-		RYSSRYPR	45362
+-		-	RPYPY	23564
+3 part.
+
+5152 (4m)
+#by A.J.Pitman
+M	W	B	H	23456
+2	2			LBLLLLLBL	35264
+-			-	LZL	42563
+-	2	-	-	CSCZBSLCSC	26543
+	-		-	BBBBBBBL	54263
+			-	LCL	25463
+-	3		-	CSCZBBL	34562
+			-	CSCCL	53462
+-	3		-	CSCZBBL	24365
+	-		3	LZLBB	62345
+-			-	LZL	53246
+3	-		-	LBBZCSC	24536
+			-	LCCSC	52436
+3	-		-	LBBZCSC	43526
+			-	LCL	54326
+-			-	LBBBBBBB	63425
+		-		CSCS	32654
+2	-		-	SSSBZCSC	35426
+	-		2	LZLB	34256
+	-		-	LCCSC	25346
+3			-	LBBSL	32546
+-				LZL	52643
+-	-			SSSCSSS	46325
+	-		-	LZL	32465
+	3		-	LSBBL	43265
+-				CSCCL	23564
+-			-	CSCSL	45362
+		-	-	CSBBBB	45623
+		-	-	BBBBSC	45236
+	-		-	LSCSC	23456
+#Z = C or S.
+
+5280 (5m)
+#by A.J.Pitman
+M	B	W	H	23456
+-				LSL	43652
+-		-		SPSPSPS	56234
+		2	3	LSBLBB	63254
+-			-	LCL	42356
+3		-	-	LBBCCSC	35426
+			-	LCCSP	43526
+3		-	-	LBBCCSP	52436
+			-	LCL	45236
+-			-	LBBBBBBB	62534
+	-			CSCS	23645
+-				SSSCPPP	63542
+-		-	-	PPPSCSP	24536
+		-		LSL	32546
+2		2		LBLLLLLBL	24365
+-			-	LSL	53462
+-		-		PSCSPPP	64235
+		-		PPPCSSS	36245
+	-		-	SCSC	36452
+		-	-	BBBBBBBL	45362
+			-	LCL	34562
+-		3	-	PSCCBBL	25463
+			-	PSCCL	42563
+-		3	2	PSCCBBLB	23564
+		3	-	LCBBL	52364
+-				PSCCL	32465
+-		-		PSCSPPP	64523
+-		-		PPPSCSP	25346
+		-	-	LCCSP	34256
+3			-	LBBCL	23456
+
+5184 (5m)
+#by M.C.W.Sherwood
+M	B	W	H	23456
+-		-	-*	RCR	65432
+	-			SNSY	53624
+		-		CNSNCSY	25634
+		-	-	RSR	63254
+			-	RCR	26354
+			-	YNYNYNC	32654
+6 part.
+Omit -* in parts 2, 4 and 6.
+
+5088 (6m)
+#by M.A.Coleman
+W	M	H	23456
+-	-	-	RSCRNYRC	64235
+-			SYNCR	36245
+-			RPR	43265
+-		-	RPNYN	26435
+-			PSYCYCN	32465
+-		-	RSCCC	46325
+-			SYNCR	24365
+-			RPR	62345
+-		-	RPNYN	34625
+-			PSYCYCN	23645
+3 part.
+
+5120 (6m)
+#by S.Ivin
+M	W	H	23456
+-	-		LCR	54632
+2	2	-	RBYBL	54326
+-	-	-	LSL	62345
+	-	-	LYCSC	34625
+		-	YSRSY	63425
+	2		CSCYBR	32465
+-	-	3	RCLBB	64523
+5 part.
+
+5184 (7m)
+#by N.Smith
+M	B	W	H	23456
+		-		RSL	52436
+-				RCL	42635
+-		2	-	SPPCBL	52364
+		3	2	RYBBLB	23564
+	-			SPYC	36245
+		-	-*	YPSCR	43265
+6 part.
+-* in parts 2, 4 and 6.
+
+5184 (7m)
+#by M.C.W.Sherwood
+M	B	W	H	23456
+-		-	-*	RCR	65432
+	-			SPPY	53624
+		-		CNSNCPY	25634
+		-	-	RSL	63254
+			-	RSL	26354
+			-	YNYCNPC	32654
+6 part.
+Omit -* in parts 2, 4 and 6.
+
+5120 (8m)
+#by P.G.K.Davies
+M	B	W	H	23456
+			-	NNPCYYY	42356
+	-		-	BBBBPP	42563
+		-	-	PPYNPCC	56423
+-			-	CPCCR	34625
+	-	-	-	RRLBBBR	35426
+			-	RPNNN	43526
+-			-	RYCCY	65324
+			-	SCSSSSS	36524
+		-		YCSPSNN	23564
+-			-	NSNRRRRRR	45362
+			-	LYL	34562
+-				NYYLRLLLL	54263
+-			-	LYR	32465
+2 part.
+
+5024 (8m)
+#by N.J.Diserens
+M	B	W	H	23456
+		-	-	LCCSP	45236
+3		-		LBBSR	34256
+-		-		LY	(52643)
+-		-		PRNCCYYS	46325
+		2		YNPYBL	62345
+-		-		LSR	43526
+2	-			RBBBBCS	32654
+	-			YSSC	25346
+2		2		LBRLLLRBL	54263
+	-			CSSY	46532
+	-	2		SCBBBBR	32465
+-		-		RSL	64523
+2				LBYPNY	34625
+-		-		SYYN	(26543)
+-		-		CNRPYL	45362
+-		3	-	RSBBL	23564
+-				PSCCL	53462
+-				NCNNL	43265
+-			-	YYSPR	52364
+		-	2	RCPPPB	53624
+			-	PPRCN	65324
+		2	-	SLBR	35264
+-	-		-	CNNYPRYNS	25634
+	-	-	-	SNYRPYNNC	24536
+2			-	RBLS	26435
+			2	NCRPPB	64235
+-			-	PPPCR	52436
+		-		RPSYY	35426
+		-		LNNCN	23456

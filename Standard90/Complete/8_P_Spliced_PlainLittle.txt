@@ -1,0 +1,81 @@
+[P=Plain Bob,8]
+[L=Little Bob,8]
+
+# Plain and Little Spliced
+
+# Many lengths of Plain and Little Spliced may be obtained from the separate touches of Plain Bob and of Little Bob already given by attaching to them courses from the following table, making sure that each course selected includes the relevant calling positions for that particular course.
+
+#LLL* (24 changes) includes In, 5ths and H (* where In and 5ths is called).
+
+#PLP (40 changes) includes W, M and H.
+
+#PPL (40 changes) includes W and H.
+
+#LPP (40 changes) includes M and H.
+
+#PLLLL (48 changes) includes W, M, 5ths and H.
+
+#LLLLP (48 changes) includes W, M and H.
+
+#PLLPLL* (64 changes) includes W, M, B, 5ths and H (* where B is called). Add leads of P per extra Befores called.
+
+#PPPPP* (80 changes) includes W, 5ths, 4ths, M and H (* where 5ths and 4ths is called).
+
+#PPPPPLL* (96 changes) includes W, 5ths, In, 5ths and H (* where 5ths and In is called).
+
+#e.g.
+88
+#(from 224 Plain)
+W	H	23456
+-	-	PLP		45236
+-	-	LLLLP	23456
+
+136
+#(from 160 Little)
+I	5	W	H			23456
+		-	-	LLLLP	45236
+		-		PLP		34256
+-	-			LLL		42356
+-	-			LLL		23456
+
+216
+#(from 248 Little)
+W	M	B	H	23456
+s		-	-	PLLPLL	53264
+	-			PLLLL	23465
+s		-	-	PLLPLL	63254
+	-			PLP		23456
+
+1264
+W	M	H	23456
+s	s		PLP				63425
+s		-	PLP				42365
+	s	3	PLLLLPLLLLPLLLL	52364
+	s	2	PLLLLPLLLL		23465
+s	s		PLP				53426
+s		-	PLP				42356
+	s	3	PLLLLPLLLLPLLLL	62354
+	s	-	PLLLL			34256
+		s	PLP				32456
+2 Part.
+
+5088
+#by N.Golden
+W	I	5	M	H					23456
+			-	-	LPP				64352
+				2	LLLLPLLLLP		43652
+2					PLPPLP			35642
+	-	-			LLL				56342
+			-	3	LLLLPLLLLPLLLLP	36245
+-				-*	PPL				43265
+12 Part.
+-* in parts 2, 4, 8 and 10.
+-* = s in parts 6 and 12.
+
+# N.B. Where truth is critical, care must be taken over the selection of courses. For instance:
+
+#W	B	M
+#	-		PLL(P)LL
+#-		-	LL(L)LP
+
+#Where () leads are false against each other.

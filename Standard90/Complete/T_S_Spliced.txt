@@ -1,0 +1,332 @@
+[B=Bristol Surprise,12]
+[C=Cambridge Surprise,12]
+[N=Lincolnshire Surprise,12]
+[L=Londinium Surprise,12]
+[R=Lyddington Surprise,12]
+[G=Newgate Surprise,12]
+[T=Prittlewell Surprise,12]
+[P=Pudsey Surprise,12]
+[S=Superlative Surprise,12]
+[W=Wembley Surprise,12]
+[Y=Yorkshire Surprise,12]
+[E=Lyddington Surprise,12]
+[F=Newgate Surprise,12]
+[H=Newgate Surprise,12]
+[V=Cambridge Surprise,12]
+[M=Cambridge Surprise,12]
+[X=Cambridge Surprise,12]
+
+# Spliced Surprise Maximus
+
+# In addition to the method abbreviations used (Bristol B, Cambridge C, Lincolnshire N, Londinium L, Lyddington R, Newgate G, Prittlewell T, Pudsey P, Superlative S, Wembley W and Yorkshire Y) the following notation is also used:
+# E = R or W
+# F = G, L, R or W
+# H = G or L
+# V = C, Y or N
+# M = C, N, P or T
+# X = C, Y, N, S, P or T
+
+144
+H		23456
+	FXF	23456
+
+192
+H			23456
+	BFFF	23456
+
+240
+H			23456
+	BXXMX	23456
+
+288
+H			23456
+	BFBXMM	23456
+
+290
+W					23456
+2*		EXXBXB(V)	(32456)
+2* = -s.
+
+336
+H			23456
+	FXXXXXX	23456
+
+384
+H				23465
+	FXXFBXXM	23456
+
+386
+M			23456
+s	HXXXXXX	63452
+-	F(H)	(43256)
+
+432
+H				23456
+	FXBFFBXMM	23456
+
+432
+H				23456
+	FMXBFFBXM	23456
+
+480
+H				23456
+	GXXGXXGXXX	23456
+
+528
+H				23456
+	FFFFFFFFFFF	23456
+# Or all X.
+#!
+
+528
+H				23456
+	XXXXXXXXXXX	23456
+
+#!
+
+528
+H			23456
+-	FXF		42356
+-	FXF		34256
+-	MXBXX	23456
+
+1298 (9m)
+M	W	H				23456
+		-	LNW			42356
+		-	RSBGLBYCC	34256
+	-		WC*SYNSC	53246
+	-		N*WR		45236
+-	-	-	WBRL		63254
+s			G(L)		(43256)
+# For 10m ring 9m with * = P.
+#!
+
+1298
+M	W	H				23456
+		-	LNW			42356
+		-	RSBGLBYCC	34256
+	-		WPSYNSC		53246
+	-		PWR			45236
+-	-	-	WBRL		63254
+s			G(L)		(43256)
+
+#!
+# For 8m ring 9m with all G = L.
+#!
+
+1298
+M	W	H				23456
+		-	LNW			42356
+		-	RSBLLBYCC	34256
+	-		WCSYNSC		53246
+	-		NWR			45236
+-	-	-	WBRL		63254
+s			L(L)		(43256)
+
+#!
+1298 (6m)
+M	W	H				23456
+		-	LNR*		42356
+		-	RSNLCYRYCS	34256
+	-		R*CSYNSC	53246
+	-		NL*R		45236
+-	-	-	L*YL		63254
+s			L(L)		(43256)
+
+# For 7m ring 6m with * = W.
+#!
+
+1298
+M	W	H				23456
+		-	LNW			42356
+		-	RSNLCYRYCS	34256
+	-		WCSYNSC		53246
+	-		NWR			45236
+-	-	-	WYL			63254
+s			L(L)		(43256)
+
+#!
+# For 5m ring 6m with all S = Y.
+#!
+
+1298
+M	W	H				23456
+		-	LNR			42356
+		-	RYNLCYRYCY	34256
+	-		RCYYNYC		53246
+	-		NLR			45236
+-	-	-	LYL			63254
+s			L(L)		(43256)
+
+#!
+# For 4m ring 5m with all N = C.
+#!
+
+1298
+M	W	H				23456
+		-	LCR			42356
+		-	RYCLCYRYCY	34256
+	-		RCYYCYC		53246
+	-		CLR			45236
+-	-	-	LYL			63254
+s			L(L)		(43256)
+
+#!
+# For 3m ring 4m with all R = L.
+#!
+
+1298
+M	W	H				23456
+		-	LCL			42356
+		-	LYCLCYLYCY	34256
+	-		LCYYCYC		53246
+	-		CLL			45236
+-	-	-	LYL			63254
+s			L(L)		(43256)
+
+#!
+# For 2m ring 3m with all Y = C.
+#!
+
+1298
+M	W	H				23456
+		-	LCL			42356
+		-	LCCLCCLCCC	34256
+	-		LCCCCCC		53246
+	-		CLL			45236
+-	-	-	LCL			63254
+s			L(L)		(43256)
+
+#!
+
+#5040 (2-10m)
+#by J.H.Fielden
+#M	W	H	23456
+#		-	42356
+#-	-		53624
+#	-		25634
+#	-	-	63254
+#		-	26354
+#	-	-	35264
+#		-	23564
+#3 Part.
+# This is the basic composition. The calling for each number of methods is:
+
+5040 (10m)
+M	W	H	23456
+		-	RBGR		42356
+-	-		LSL			53624
+	-		GNYLBNSC	25634
+	-	-	WYG			63254
+		-	WTNWCSRYB	26354
+	-	-	RCW			35264
+		-	BTCTY		23564
+3 Part.
+
+5040 (9m)
+M	W	H				23456
+		-	RBLR		42356
+-	-		LSL			53624
+	-		RNYLBNSC	25634
+	-	-	WYL			63254
+		-	WTNWCSRYB	26354
+	-	-	RCW			35264
+		-	BTCTY		23564
+3 Part.
+
+5040 (8m)
+M	W	H				23456
+		-	RBLR		42356
+-	-		LCL			53624
+	-		RNYLBNTC	25634
+	-	-	WYL			63254
+		-	WTNWCNRYB	26354
+	-	-	RCW			35264
+		-	BTCTY		23564
+3 Part.
+
+5040 (7m)
+M	W	H				23456
+		-	RNL			42356
+-	-		WTW			53624
+	-		RCCLYTRNTC	25634
+	-	-	WYL			63254
+		-	WTNWCNLTYT	26354
+	-	-	RCW			35264
+		-	RYR			23564
+3 Part.
+
+5040 (6m)
+M	W	H				23456
+		-	RNR			42356
+-	-		RTL			53624
+	-		LCCLYTRNTC	25634
+	-	-	LYL			63254
+		-	LTNLCNLTYT	26354
+	-	-	RCR			35264
+		-	RYR			23564
+3 Part.
+
+# For 5m ring 6m with all N = Y.
+#!
+
+5040 (5m)
+M	W	H				23456
+		-	RYR			42356
+-	-		RTL			53624
+	-		LCCLYTRYTC	25634
+	-	-	LYL			63254
+		-	LTYLCYLTYT	26354
+	-	-	RCR			35264
+		-	RYR			23564
+3 Part.
+
+#!
+
+# For 4m ring 5m with all T = C.
+#!
+
+5040 (4m)
+M	W	H				23456
+		-	RYR			42356
+-	-		RCL			53624
+	-		LCCLYCRYCC	25634
+	-	-	LYL			63254
+		-	LCYLCYLCYC	26354
+	-	-	RCR			35264
+		-	RYR			23564
+3 Part.
+
+#!
+
+# For 3m ring 4m with all R = L.
+#!
+
+5040 (3m)
+M	W	H				23456
+		-	LYL			42356
+-	-		LCL			53624
+	-		LCCLYCLYCC	25634
+	-	-	LYL			63254
+		-	LCYLCYLCYC	26354
+	-	-	LCL			35264
+		-	LYL			23564
+3 Part.
+
+#!
+
+# For 2m ring 3m with all Y = C.
+#!
+
+5040 (2m)
+M	W	H				23456
+		-	LCL			42356
+-	-		LCL			53624
+	-		LCCLCCLCCC	25634
+	-	-	LCL			63254
+		-	LCCLCCLCCC	26354
+	-	-	LCL			35264
+		-	LCL			23564
+3 Part.
+
+#!

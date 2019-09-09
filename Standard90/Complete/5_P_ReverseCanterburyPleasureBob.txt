@@ -1,0 +1,106 @@
+[Reverse Canterbury Pleasure Bob,5]
+
+#These compositions are also true to St Simons Bob Doubles and St Martins Bob Doubles on page ?.
+
+40
+	2345	
+-	5423	1
+-	3254	1
+-	4532	1
+-	2345	1
+#(Call bob every lead.)
+
+60
+	2345	
+-	3542	2
+-	5243	2
+-	2345	2
+#(Call 4th three times: 4th.)
+
+60
+	2345	
+-	3542	2
+-	3524	3
+	2345	1
+#(Call 3rd twice: In.)
+
+60
+	2345	
+-	3542	2
+-	2435	1
+-	4532	2
+-	2345	1
+#(Call 5th twice: Out, 5ths)
+
+100
+	2345	
+-	4235	4
+-	2534	2
+-	4325	1
+-	5243	1
+-	2345	2
+#(Call 3rd: 4ths, 4ths, Out, 5ths, Out.)
+
+120
+	2345	
+-	4235	4
+-	3425	4
+-	2345	4
+#(Call 5th three times: 5ths.)
+
+120
+	2345	
+-	2354	3
+-	5234	4
+-	3524	4
+	2345	1
+#(Call 4th three times: 5th.)
+
+120
+	2345	
+-	3542	2
+-	4352	4
+-	5432	4
+	2345	2
+#(Call 3rd: In, Out, 4ths.)
+
+120
+	2345
+-	5423	1
+-	2543	4
+-	4253	4
+	2345	3
+#(Call 2nd: 4ths, In, Out.)
+
+120
+	2345	
+-	5423	1
+-	3254	1
+-	4532	1
+	3425	1
+3 Part.
+#(Call 5th three times: In, 4ths, Out.)
+
+120
+	2345	
+-	5423	1
+-	3254	1
+-	2453	2
+3 Part.
+#(Call 2nd three times: 4ths, Out, In.)
+
+120
+	2345	
+-	5423	1
+-	4325	2
+-	5243	1
+3 Part.
+#(Call 4th three times: Out, In, 4ths.)
+
+120
+	2345	
+-	3542	2
+-	2435	1
+-	5324	1
+3 Part.
+#(Call 3rd three times: In, 4ths, Out.)

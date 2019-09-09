@@ -1,0 +1,270 @@
+[Grandsire,5]
+
+20
+	2345
+-	4523	1
+-	2345	1
+#(Call bob each lead.)
+
+39
+	2345
+-	3425	2
+	(3254)	2
+#(Call 5th: - 45 up.)
+
+40
+	2345	
+s	4325	2
+s	2345	2
+#(Call 3rd twice: s 3rds.)
+
+49
+	2345	
+-	4523	1
+-	3542	3
+	(3254)	1
+#(Call 5th twice: 3rds unaffected.)
+
+59
+	2345	
+-	4523	1
+s	3245	1
+s	4235	2
+-	3542	1
+	(3254)	1
+#(Call 4th: - 3rds into hunt, s 45 down, s 2nds, - 45 down.)
+
+59
+	2345	
+s	4325	2
+-	2543	1
+s	3425	1
+	(3254)	2
+#(Call 2nd: s 45 down, 3rds into hunt, s 45 down.)
+
+60
+	2345	
+-	4523	1
+-	5243	2
+-	2453	2
+	2345	1
+#(Call 3rd three times: - 45 up.)
+
+60
+	2345	
+-	3425	2
+-	4235	2
+-	2345	2
+#(Call 5th three times: - 45 up.)
+
+60
+	2345	
+s	5423	1
+-	2354	1
+s	5324	2
+-	2453	1
+	2345	1
+#(Call 2nd twice: s 45 down, - 3rds into hunt.)
+
+69
+	2345
+s	5423	1
+s	4352	3
+-	3542	2
+	(3254)	1
+#(Call 2nd: s 45 down, s 45 up, - 45 up.)
+
+79
+	2345	
+s	4325	2
+-	3245	2
+s	4235	2
+-	3542	1
+	(3254)	1
+#(Call 4th twice: s 2nds, - 45 down.)
+
+80
+	2345	
+s	4325	2
+-	2543	1
+s	5324	3
+-	2453	1
+	2345	1
+#(Call 3rd twice: s 3rds, - 45 up.)
+
+89
+	2345	
+s	5423	1
+-	2354	1
+s	4523	1
+s	5342	3
+-	4253	1
+s	3542	1
+	(3254)	1
+#(Call 5th twice: s 2nd, - 45 down, s 3rds.)
+
+99
+	2345	
+-	4523	1
+s	3245	1
+-	4532	1
+s	5243	3
+-	4352	1
+-	3542	2
+	(3254)	1
+#(Call 4th: - 3rds into hunt, s 45 down, - 3rds into hunt, s 45 down, - 3rds into hunt, - 45 down.)
+
+100
+	2345	
+s	4325	2
+-	2543	1
+s	3425	1
+s	2435	2
+-	3524	1
+s	4235	1
+-	2345	2
+#(Call 2nd: s 45 down, - 3rds into hunt, s 45 down, s 2nds, - 45 down, s 3rds, - 3rds into hunt.)
+
+109
+	2345	
+s	5423	1
+-	4253	2
+-	2543	2
+s	4523	2
+-	3542	3
+	(3254)	1
+#(Call 3rd: s 45 up, - 45 up, - 45 up, s 45 up, - 3rds into hunt.)
+
+120
+	2345	
+-	4523	1
+-	5243	2
+s	4253	2
+-	2543	2
+-	5423	2
+s	2453	2
+	2345	1
+#(Call 3rd 45 up: --s--s.)
+
+120
+	2345	
+-	4523	1
+s	2543	2
+-	5423	2
+-	4253	2
+s	5243	2
+-	2453	2
+	2345	1
+#(Call 3rd 45 up: -s--s-.)
+
+120
+	2345	
+-	4523	1
+-	5243	2
+s	4253	2
+-	2543	2
+-	5423	2
+s	2453	2
+	2345	1
+#(Call 3rd 45 up: s--s--.)
+
+120
+	2345	
+s	5423	1
+-	2354	1
+s	4523	1
+	4352	1
+3 Part.
+#(Call 3rd three times: s 45 up, - 3rds unaffected, s 45 up.)
+
+120
+	2345	
+s	5423	1
+s	2453	2
+-	5324	1
+3 Part.
+#(Call 3rd three times: s 45 up, s 45 up, - 3rds unaffected.)
+
+120
+	2345	
+-	3425	2
+-	4235	2
+s	3245	2
+-	2435	2
+-	4325	2
+s	2345	2
+#(Call 5th 45 up: --s--s.)
+
+120
+	2345	
+-	3425	2
+s	2435	2
+-	4325	2
+-	3245	2
+s	4235	2
+-	2345	2
+#(Call 5th 45 up: -s--s-.)
+
+120
+	2345	
+s	4325	2
+-	3245	2
+-	2435	2
+s	3425	2
+-	4235	2
+-	2345	2
+#(Call 5th 45 up: s--s--.)
+
+120
+	2345	
+s	4325	2
+-	2543	1
+s	3425	1
+3 Part.
+#(Call 5th three times: s 45 up, - 3rds unaffected, s 45 up.)
+
+120
+	2345	
+-	4523	1
+s	3245	1
+s	4235	2
+3 Part.
+#(Call 5th three times: - 3rds unaffected, s 45 up, s 45 up.)
+
+240 (Price)
+	2345	
+-	3425	2
+-	5432	3
+s	3452	2
+-	5234	1
+s	4352	1
+s	3245	3
+2 Part.
+#(Call 4th twice: - 3rds unaffected, - 3rds unaffected, s 3rds, - 45 up, s 2nd, s 45 down.)
+
+240 (Price)
+	2345	
+s	5423	1
+s	2453	2
+s	3524	1
+-	2435	1
+s	5324	1
+s	4253	1
+-	2543	2
+s	4523	2
+s	3245	1
+2 Part.
+#(Call 4th twice: s 3rds, s 3rds, s 45 up, - 3rds unaffected, s 45 up, s 2nds, - 45 down, s 2nds, s 45 down.)
+
+240 (Morris)
+	2345	
+s	5423	1
+s	3254	1
+s	4532	1
+-	3245	1
+s	5432	1
+s	2354	1
+s	4523	1
+	4352	1
+3 Part.
+#(Call 3rd three times: s 45 up, s 2nds, s 45 down, - 3rds into hunt, s 45 down, s 3rds, s 45 up.)

@@ -1,0 +1,79 @@
+[S=St Simons Bob,5]
+
+#For compositions see Reverse Canterbury Pleasure Bob Doubles on <PAGEREF> and this page.
+
+[M=St Martins Bob,5]
+
+#For compositions see Reverse Canterbury Pleasure Bob Doubles on <PAGEREF> and this page.
+
+#Spliced St Simons and St Martins:
+#Any of the compositions for St Simons and St Martins (see Reverse Canterbury) may be used to splice the two methods together so long as the same method is rung when any given pair of bells is on the front.
+#For example:
+#Method	Pairs On Front
+#St Simons	2-3, 3-4, 4-5
+#St Martins	2-4, 2-5, 3-5
+#Therefore:
+
+60
+	2345	M
+	4253	S
+-	3542	S
+	4325	M
+-	5243	S
+	4532	S
+-	2345
+
+120
+	2345	M
+	4253	S
+	5432	M
+	3524	S
+-	4235	S
+	3452	M
+	5324	M
+	2543	M
+-	3425	S
+	2354	M
+	5243	S
+	4532	S
+-	2345
+
+[N=St Nicholas Bob,5]
+
+#For compositions see Plain Bob Doubles on 5.
+
+[W=Winchendon Place Bob,5]
+
+#For compositions see Plain Bob Doubles on 5.
+
+#Spliced St Nicholas and Winchendon Place:
+#Any of the compositions for St Nicholas and Winchendon Place (see Plain Bob) may be used to splice the two methods together so long as the same method is rung when any given pair of bells is on the front.
+#For example:
+#Method	Pairs On Front
+#St Nicholas	2-3, 2-4, 2-5
+#Winchendon	3-4, 3-5, 4-5
+#Therefore:
+
+60
+	2345	N
+	3524	W
+-	3542	W
+	5234	N
+-	5243	N
+	2354	N
+-	2345
+
+120
+	2345	N
+	3524	W
+	5432	W
+-	5423	W
+	4352	W
+	3245	N
+	2534	N
+-	2543	N
+	5324	W
+	3452	W
+	4235	N
+-	4253	N
+	2345

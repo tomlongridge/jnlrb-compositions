@@ -1,0 +1,86 @@
+[Cambridge Surprise,10]
+
+360
+#!
+	234567890	
+-	357920486	1
+-	590836742	1
+-	986452073	1
+-	842793605	1
+-	473085269	1
+-	705649328	1
+-	069278534	1
+-	628304957	1
+-	234567890	1
+#!
+#	23456
+#9A	23456
+#A = -.
+
+562
+W	23456
+-	52436
+s	(32456)
+
+1282
+W	H	23456
+-	3	52436
+s		(32456)
+# Also true to Yorkshire.
+
+#!
+
+[Yorkshire Surprise,10]
+
+1282
+W	H	23456
+-	3	52436
+s		(32456)
+
+[Cambridge Surprise,10]
+
+#!
+
+1282
+M	W	H	23456
+-	-	-	65432
+-		2	52436
+	s		(32456)
+# Also true to Yorkshire.
+
+#!
+
+[Yorkshire Surprise,10]
+
+1282
+M	W	H	23456
+-	-	-	65432
+-		2	52436
+	s		(32456)
+
+[Cambridge Surprise,10]
+
+#!
+
+#5040 - TODO: Unsupported half lead notations
+#by R.W.Pipe
+#M	4.5	W	H	2345678
+#			-	42356
+#		s		52346
+#s		s	-	34265
+#	s		3	3426587
+#	s		-	2346578
+#2 Part.
+
+5040
+#by P.Border
+M	W	H	23456
+		2	34256
+	-		53246
+-	3	-	62345
+	s	3	42365
+-		s	35264
+3	s		65234
+s	-	-	23456
+
+# For compositions of Spliced Surprise Royal see pages 57-59.

@@ -1,0 +1,442 @@
+[Little Bob,12]
+
+176
+W	H	23456
+-	-	45236
+-	-	23456
+
+176
+W	H	23456
+s	s	54326
+s	s	23456
+
+176
+#!
+W	M	H	23456
+#!
+#A			23456
+ss			23456
+# A = W, M or H.
+
+#!
+
+176
+W	M	H	23456
+	ss		23456
+
+176
+W	M	H	23456
+		ss	23456
+
+#!
+
+264
+#!
+W	M	H	23456
+#!
+#A			23456
+3			23456
+# A = W, M or H.
+
+#!
+
+264
+W	M	H	23456
+	3		23456
+
+264
+W	M	H	23456
+		3	23456
+
+#!
+
+264
+W	M	H	23456
+s	-	-	64325
+	s		54326
+s		s	23456
+
+#352, 440, 528
+#!
+528
+#!
+W	M	H		23456
+s	s			63425
+s		(ss)	23465
+s	s			53426
+s		(ss)	23456
+
+#!
+
+440
+W	M	H		23456
+s	s			63425
+s				23465
+s	s			53426
+s		(ss)	23456
+
+440
+W	M	H		23456
+s	s			63425
+s		(ss)	23465
+s	s			53426
+s				23456
+
+352
+W	M	H		23456
+s	s			63425
+s				23465
+s	s			53426
+s				23456
+
+#!
+# Add (ss) according to length required.
+
+440
+W	M	H	23456
+-	-	-	64235
+-	-	-	52643
+-	-	-	36524
+-	-	-	45362
+-	-	-	23456
+
+1320
+W	M	H	23456
+s	s		63425
+s		6*	23465
+s	s	ss	53426
+s		6*	23456
+6* = --s--s.
+
+5016
+# by J.Reeves
+W	M	H	23456
+s	-	3	43625
+-		3	24635
+-		3	32645
+s		2	26435
+-		3	32465
+-		2	34625
+-		3	23645
+3 Part.
+
+5016
+# Anon
+5	6	8	11	234567890ET
+s	s	-		63425789T0E	:A
+s			-	42365789T0E	:A
+(ss)	s		-	35264789T0E	:A
+	3		2	52364789T0E	:A
+	s		2	23465789T0E	:A
+s	s			53426789T0E	:A
+#s		(ss)	-	42356789T0E	:A
+#!
+s			-	42356789T0E	:A
+#!
+	ss		2*	32456789T0E	:A
+#!
+s	s			62435789T0E
+s			-	43265789T0E
+	s		-	25364789T0E
+	3		2	53264789T0E
+	s		2	32465789T0E
+s	s			52436789T0E
+s			-	43256789T0E
+	ss		2*	23456789T0E
+#!
+#A*				23456789T0E
+#!
+s	s	-		63425789ET0
+s		-	-	423657890ET
+	s		-	352647890ET
+	3		2	523647890ET
+	s		2	234657890ET
+s	s			534267890ET
+s			-	423567890ET
+	ss		2*	324567890ET
+#!
+#A+				324567890ET
+#!
+s	s			624357890ET
+s			-	432657890ET
+	s		-	253647890ET
+	3		2	532647890ET
+	s		2	324657890ET
+s	s			524367890ET
+s			-	432567890ET
+	ss		2*	234567890ET
+#!
+#A*				234567890ET
+#A* = A omitting - at 8.
+#A+ = A adding - at 8 in 2nd course.
+# Include: (ss) at 5 in any one A block only or (ss) at 8 in part 3 only.
+2* = -s.
+
+#!
+
+5016
+5	6	8	11	234567890ET
+s	s	-		63425789T0E	:A
+s			-	42365789T0E	:A
+	s		-	35264789T0E	:A
+	3		2	52364789T0E	:A
+	s		2	23465789T0E	:A
+s	s			53426789T0E	:A
+s			-	42356789T0E	:A
+	ss		2*	32456789T0E	:A
+s	s			62435789T0E
+s			-	43265789T0E
+ss	s		-	25364789T0E
+	3		2	53264789T0E
+	s		2	32465789T0E
+s	s			52436789T0E
+s			-	43256789T0E
+	ss		2*	23456789T0E
+s	s	-		63425789ET0
+s		-	-	423657890ET
+	s		-	352647890ET
+	3		2	523647890ET
+	s		2	234657890ET
+s	s			534267890ET
+s			-	423567890ET
+	ss		2*	324567890ET
+s	s			624357890ET
+s			-	432657890ET
+	s		-	253647890ET
+	3		2	532647890ET
+	s		2	324657890ET
+s	s			524367890ET
+s			-	432567890ET
+	ss		2*	234567890ET
+2* = -s.
+
+5016
+5	6	8	11	234567890ET
+s	s	-		63425789T0E	:A
+s			-	42365789T0E	:A
+	s		-	35264789T0E	:A
+	3		2	52364789T0E	:A
+	s		2	23465789T0E	:A
+s	s			53426789T0E	:A
+s			-	42356789T0E	:A
+	ss		2*	32456789T0E	:A
+s	s			62435789T0E
+s			-	43265789T0E
+	s		-	25364789T0E
+	3		2	53264789T0E
+	s		2	32465789T0E
+s	s			52436789T0E
+s			-	43256789T0E
+	ss		2*	23456789T0E
+s	s	-		63425789ET0
+s		-	-	423657890ET
+ss	s		-	352647890ET
+	3		2	523647890ET
+	s		2	234657890ET
+s	s			534267890ET
+s			-	423567890ET
+	ss		2*	324567890ET
+s	s			624357890ET
+s			-	432657890ET
+	s		-	253647890ET
+	3		2	532647890ET
+	s		2	324657890ET
+s	s			524367890ET
+s			-	432567890ET
+	ss		2*	234567890ET
+2* = -s.
+
+5016
+5	6	8	11	234567890ET
+s	s	-		63425789T0E	:A
+s			-	42365789T0E	:A
+	s		-	35264789T0E	:A
+	3		2	52364789T0E	:A
+	s		2	23465789T0E	:A
+s	s			53426789T0E	:A
+s			-	42356789T0E	:A
+	ss		2*	32456789T0E	:A
+s	s			62435789T0E
+s			-	43265789T0E
+	s		-	25364789T0E
+	3		2	53264789T0E
+	s		2	32465789T0E
+s	s			52436789T0E
+s			-	43256789T0E
+	ss		2*	23456789T0E
+s	s	-		63425789ET0
+s		-	-	423657890ET
+	s		-	352647890ET
+	3		2	523647890ET
+	s		2	234657890ET
+s	s			534267890ET
+s			-	423567890ET
+	ss		2*	324567890ET
+s	s			624357890ET
+s			-	432657890ET
+ss	s		-	253647890ET
+	3		2	532647890ET
+	s		2	324657890ET
+s	s			524367890ET
+s			-	432567890ET
+	ss		2*	234567890ET
+2* = -s.
+
+5016
+5	6	8	11	234567890ET
+s	s	-		63425789T0E	:A
+s			-	42365789T0E	:A
+	s		-	35264789T0E	:A
+	3		2	52364789T0E	:A
+	s		2	23465789T0E	:A
+s	s			53426789T0E	:A
+s			-	42356789T0E	:A
+	ss		2*	32456789T0E	:A
+s	s			62435789T0E
+s			-	43265789T0E
+	s		-	25364789T0E
+	3		2	53264789T0E
+	s		2	32465789T0E
+s	s			52436789T0E
+s			-	43256789T0E
+	ss		2*	23456789T0E
+s	s	-		63425789ET0
+s		-	-	423657890ET
+	s		-	352647890ET
+	3		2	523647890ET
+	s		2	234657890ET
+s	s			534267890ET
+s		ss	-	423567890ET
+	ss		2*	324567890ET
+s	s			624357890ET
+s			-	432657890ET
+	s		-	253647890ET
+	3		2	532647890ET
+	s		2	324657890ET
+s	s			524367890ET
+s			-	432567890ET
+	ss		2*	234567890ET
+2* = -s.
+
+#!
+
+[L=Little Bob,12]
+[P=Plain Bob,12]
+
+# Spliced Plain and Little Bob Maxiumus
+
+# The following courses may be attached to a variety of compositions (see under Plain and Little Spliced Major and Royal, etc.) although, if truth is critical, care should be taken to ensure that leads are not repeated in separate courses (see page 31):
+
+# PPL (56 changes) includes W and H.
+#!
+
+56
+H		23456
+	PPL	23456
+
+#!
+# PLP (56 changes) includes W, M and H.
+#!
+
+56
+H		23456
+	PLP	23456
+
+#!
+# LPP (56 changes) includes M and H.
+#!
+
+56
+H		23456
+	LPP	23456
+
+#!
+# PLLLLLL (72 changes) includes W, M and H.
+#!
+
+72
+H			23456
+	PLLLLLL	23456
+
+#!
+# LLLLLLP (72 changes) includes W, M and H.
+#!
+
+72
+H			23456
+	LLLLLLP	23456
+
+#!
+# PLLPLLPLLL (128 changes) includes W, M and H.
+#!
+
+128
+H				23456
+	PLLPLLPLLL	23456
+
+#!
+# LLPLLLPLLP (128 changes) includes W, M and H.
+#!
+
+128
+H				23456
+	LLPLLLPLLP	23456
+
+#!
+# LLLPLLPLLP (128 changes) includes W, M and H.
+#!
+
+128
+H				23456
+	LLLPLLPLLP	23456
+
+#!
+# PLLLLPLL* (96 changes) includes W, M, 6, O, 7 and H (* where 6, O and 7 is called). - TODO: Can't find example.
+#!
+
+#6	O	7	W	M	H	23456
+#-	-	-			s	PLLLLPLL	32456
+#			-	s		LLPLLLPLLP	63425
+#			s		ss	LLPLLLPLLPLLPLLLPLLP	23465
+#2 Part.
+
+#!
+
+1272
+W	M	H	23456
+-	-	-	PLP	64235
+		-	PLP	26435
+		-	PLLLLLL	42635
+-			PLP	34625
+-		-	PLLLLLL	62345
+		-	PLP	36245
+		-	PLP	23645
+3 Part.
+
+1280
+W	M	H							23456
+s	s	ss	PLPPLP					63425
+s		3	PLPPLPPLP				23465
+s	s	ss	PLPPLP					53426
+s		3*	PLPPLPPLP				32456
+#!
+s	s	ss	PLLLLLLPLLLLLL			62435
+s		3	PLLLLLLPLLLLLLPLLLLLL	32465
+s	s	ss	PLLLLLLPLLLLLL			52436
+s		3*	PLLLLLLPLLLLLLPLLLLLL	23456
+#!
+#2 Part.
+3* = --s.
+# Call all courses PLP in part 1 and PLLLLLL in part 2.
+
+5136
+# from J.Reeves
+W	M	H	23456
+s	-	3	PLLPLLPLLLPLLPLLPLLLPLLPLLPLLL	43625
+-		3	PLLPLLPLLLPLLPLLPLLLPLLPLLPLLL	24635
+-		3	PLLPLLPLLLPLLPLLPLLLPLLPLLPLLL	32645
+s		2	PLPPLP							26435
+-		3	PLPPLPPLP						32465
+-		2	PLPPLP							34625
+-		3	PLPPLPPLP						23645
+3 Part.

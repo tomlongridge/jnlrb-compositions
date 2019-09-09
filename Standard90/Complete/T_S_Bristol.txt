@@ -1,0 +1,60 @@
+[Bristol Surprise,12]
+
+# 4ths Place Compositions
+
+1344
+H	23456
+4*	23456
+4* = s-s-.
+
+5042
+# by P.Border
+M	W	H	23456
+		5*	24356
+s	s	s	53462
+-		4*	24365
+	-		62345
+-	s		(42536)
+5* = --s--.
+4* = s--s.
+
+5134
+#by P.Border
+M	W	H	(42536)
+		2*	52436
+s	s	6*	32465
+s	s	s	64253
+-		5*	23456
+2* = -s.
+6* = --s--s.
+5* = --s--.
+# Start at backstroke snap.
+
+# 10ths Place Compositions
+
+[Bristol_0blh Surprise,12]
+
+# 1250 - TODO: False
+#I	5	O
+#	-	-
+#-	-	s
+#Rounds in 194 changes.
+
+5086
+#by R.W.Pipe
+I	5	O	(42536)
+	-	-	24635
+3	-	s	52436
+-		6*	23456
+6* = --s--s.
+# Start at treble backstroke snap.
+
+5086
+#by R.W.Pipe
+I	5	O	(42536)
+	-		62435
+-		4*	23465
+s	s		53426
+s		4*	23456
+4* = -s-s.
+# Start at treble backstroke snap.

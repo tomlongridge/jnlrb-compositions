@@ -1,0 +1,50 @@
+[Erin,5]
+
+60
+	12345	
+s	24135	1
+s	24153	5
+	12345	4
+#(Singles on 53, 35.)
+
+60
+	12345	
+s	45213	2
+s	45231	5
+	12345	3
+#(Singles on 31, 13.)
+
+60
+	12345	
+s	53421	3
+s	53412	5
+	12345	2
+#(Singles on 12, 21.)
+
+60
+	12345	
+s	31542	4
+s	31524	5
+	12345	1
+#(Singles on 24, 42.)
+
+60
+	12345	
+s	12354	5
+s	12345	5
+#(Singles on 45, 54.)
+
+#In the following two extents the 1st parts are given in full with the calls marked against the changes at which they should be called. Each extent may be started from the 2nd, 3rd and 4th six heads, giving a further six extents:
+
+# TODO
+
+360
+	12345	
+s	45213	2
+s	51423	1
+s	12543	1
+s	51342	4
+s	42153	2
+s	25413	1
+	51234	1
+5 part.
